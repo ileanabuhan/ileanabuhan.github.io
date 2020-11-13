@@ -24,8 +24,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Personal notes, list of publications, links to talks and others. 
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ileana.buhan
-#github_username:  ileanabuhan
-# baseurl: "https://ileanabuhan.github.io/"
+# github_username:  ileanabuhan
+url: "https://ileanabuhan.github.io/"
 # Build settings
 theme: minima
 plugins:
