@@ -14,7 +14,7 @@ This tutorial and accompanying [notebook](https://github.com/ileanabuhan/Leakage
 
 Suppose we have a population of 400 zebras, 200 blue and 200 greens. We measure their *weights* and *heights*. This is represented in the figure below. The actual measurements are partially included in the table (i.e., data corresponding to 10 green and blue zebras).
 
-![zebra_pop](/Users/ileana/Documents/GitHub/ileanabuhan.github.io/assets/img/SNRtuto/zebra_pop.png)
+![zebra population]({{site.url}}/assets/img/SNRtuto/zebra_pop.png){:class="img-responsive"}
 
 We want to know which of the features *weight* or *height* could be best used to characterize the difference between the two groups. To determine which of the two features is more informative we use, you guessed, the SNR, which measures the variance of the *signal* versus the variance of the *noise*. And the best part? it is that it is relatively easy to compute.
 
