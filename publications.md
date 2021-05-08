@@ -3,7 +3,11 @@ layout: page
 title: Publications
 permalink: /Publications/
 ---
-  
+
+**2021**
+
+- Ileana Buhan and Lejla Batina and Yuval Yarom and Patrick Schaumont, *SoK: Design Tools for Side-Channel-Aware Implementations*, [IACR Cryptology ePrint Archive 2021: 497 (2021)][https://eprint.iacr.org/2021/497] 
+
 **2020**
 
 - Melissa Azouaoui and Davide Bellizia and Ileana Buhan and Nicolas Debande and Sebastien Duval and Christophe Giraud and Eliane Jaulmes and Francois Koeune and Elisabeth Oswald and Francois-Xavier Standaert and Carolyn Whitnall, _A Systematic Appraisal of Side Channel Evaluation Strategies_, [IACR Cryptology ePrint Archive 2019: 860 (2020)][https://eprint.iacr.org/2020/1347] (accepted at SSR 2020)
