@@ -22,7 +22,7 @@ We want to know which of the features *weight* or *height* could be best used to
 
 The SNR can be computed in three easy steps as shown in the figure below:
 
-![steps_all_corr](/Users/ileana/Documents/GitHub/ileanabuhan.github.io/assets/img/SNRtuto/steps_all_corr.png)
+![SNR for zebras]({{site.url}}/assets/img/SNRtuto/steps_all_corr.png){:class="img-responsive"}
 
 1. *Compute signal* for each group and each feature respectively. In our dataset of 400 zebras, the green zebras have an average weight of 55.19 kg and an average height of 166.09 cm. For the blue zebras, the average weight is 65.15 kg and the average height is 169.93 cm.
 
@@ -38,11 +38,11 @@ For our data, the SNR for the *weight* is 2.68 and is quite higher compared to t
 
 In the context of side channel analysis, our dataset is a set of power measurements and the features are the different time samples. For our example, we cloned the TinyAES implementation from this [repository](https://github.com/kokke/tiny-AES-c/) and loaded the firmware on an ARM Cortex M0, which was modified for the collection of traces. The set of traces we collected are available to you here. Below, an overview trace of the AES implementation, where you can clearly see the the individual AES rounds.
 
-![overview](/Users/ileana/Documents/GitHub/ileanabuhan.github.io/assets/img/SNRtuto/overview.png)
+![overview]({{site.url}}/assets/img/SNRtuto/overview.png){:class="img-responsive"}
 
 For this tutorial however, we focus on the first round, see below. We overlap two traces and check alignment. From what we see below we conclude that the traces are well behaved, meaning well aligned, so we can move on to the next step. As you know, DPA is a divide-and-conquer attack where we target one individual byte at a time. Lets assume our *target byte* is Byte 0 of the S-box out operation, Round 1 (in the notebook you can choose other values for the target byte). In the rest of the tutorial, we will refer to the target byte as $k$.
 
-![first_round](/Users/ileana/Documents/GitHub/ileanabuhan.github.io/assets/img/SNRtuto/first_round.png)
+![First round]({{site.url}}/assets/img/SNRtuto/first_round.png){:class="img-responsive"}
 
 **Computing SNR for the our SCA dataset**
 
@@ -58,6 +58,8 @@ c) Hamming Weight (HW), which looks at the number of ones in the target byte.
 
 The figure below illustrates the exploitable information for our three chosen leakage models and we see that what we consider signal (green) or noise (purple) is determined by the choice of leakage model. SNR is computed independently for each time sample in the trace.
 
+![SNR]({{site.url}}/assets/img/SNRtuto/SNR.png){:class="img-responsive"}
+
 ![SNR](/Users/ileana/ib_blog/assets/img/SNRtuto/SNR.png)The only missing ingredient now is how to *prepare the data*, which means to split the trace set according to the values associated with our leakage model. For example:
 
 - for the LSB leakage model, we create two groups, where $\text{LSB}(k)=0$ and  $\text{LSB}(k)=1$
@@ -68,9 +70,9 @@ The figure below illustrates the exploitable information for our three chosen le
 
   And voila:
 
-  ![SNR_traces_2](/Users/ileana/Documents/GitHub/ileanabuhan.github.io/assets/img/SNRtuto/SNR_traces_2.png)
+  ![SNR traces]({{site.url}}/assets/img/SNRtuto/SNR_traces_2.png){:class="img-responsive"}
 
-In this tutorial, we explored the use of SNR for choosing the best leakage model for a target. With our example, we can clearly see that the HW leakage model is more suitable than LSB or L2SB. It is worth highlighting that the SNR can have other applications such as estimating the quality of measurements, selecting points of interest (POI), or even key ranking/enumeration scenario as a pre-processing step (which we will explore in a future post).
+  In this tutorial, we explored the use of SNR for choosing the best leakage model for a target. With our example, we can clearly see that the HW leakage model is more suitable than LSB or L2SB. It is worth highlighting that the SNR can have other applications such as estimating the quality of measurements, selecting points of interest (POI), or even key ranking/enumeration scenario as a pre-processing step (which we will explore in a future post).
 
 **Further reading materials:**
 
