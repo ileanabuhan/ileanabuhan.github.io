@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Computing the Signal-to-Noise Ratio (SNR) for SCA"
-date:   2020-11-12 11:21:09 +0100
+date:   2021-05-07 11:21:09 +0100
 categories: general
 authored: Ileana Buhan and Valentina Banciu
 ---
