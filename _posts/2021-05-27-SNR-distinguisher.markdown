@@ -20,7 +20,7 @@ To follow along, [download](https://zenodo.org/record/4742593#.YK8drmYzYUo) the 
 
 One difference to the [previous example](https://ileanabuhan.github.io/general/2021/05/07/SNR-tutorial.html) is that we have to compute not one SNR trace but 256 traces, one for each possible values of the TARGET_BYTE. The figure above illustrates the computation of the SNR trace for one key candidate (depicted by the small yellow square). As the value of the key candidate changes, the value of the intermediate value changes as well (shown as the small dark blue square). The last step before computing the SNR trace is to group the traces (illustrated by the buckets in the figure) according to the respective value of the TARGET_BYTE (in the previous example, this was green and blue zebras). For our example N, the number of traces is 10000, and each trace has 15000 samples. 
 
-**Does it really work? **
+**Does it really work?**
 
 In other words, can we recover the correct key value? There is only one way to find out: run the notebook and see the results.  I have already done it and obtained the figure below, where the traces with the maximum SNR trace correspond to the correct byte. Yay.. \o/ !
 
