@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Using SNR as a distinguisher"
+title:  "Using the Signal-to-Noise Ratio (SNR) as a distinguisher"
 date:   2021-05-27 11:21:09 +0100
 categories: leakage detection
 authored: Ileana Buhan
