@@ -8,15 +8,13 @@ authored: Ileana Buhan
 
 
 
-In the [first part](https://ileanabuhan.github.io/general/2021/05/07/SNR-tutorial.html) of this tutorial, we mentioned that there are many applications for SNR. In this post, we explore how to use SNR as a distinguisher. For this tutorial, I assume the reader to be familiar with side-channel analysis and understand the definition of a distinguisher.  Finally, we will compare the performance of the SNR distinguisher to correlation, the de facto distinguisher. 
+In this post, we explore how to use SNR as a distinguisher. To follow along, [download](https://zenodo.org/record/4742593#.YK8drmYzYUo) the trace set and [the notebook.](https://github.com/ileanabuhan/LeakageAssessment/blob/main/SNR-as-distingusher.ipynb) Our goal is to recover the TARGET_BYTE, which for this example is Byte 0 of the S-box out operation, Round 1(of an unprotected software AES implementation). By changing the value of the variable TARGET_BYTE in the provided notebook, you can recover other bytes.  
 
 **Using SNR as a distinguisher**
 
 A *distinguisher* is a scoring function that ranks key candidates. If we measured, processed and chose the correct leakage model, a distinguisher will give the highest score to the valid key candidate.
 
 ![SNR_computation]({{site.url}}/assets/img/post_05_27/SNR_computation.png){:class="img-responsive"}
-
-To follow along, [download](https://zenodo.org/record/4742593#.YK8drmYzYUo) the trace set and [the notebook.](https://github.com/ileanabuhan/LeakageAssessment/blob/main/SNR-as-distingusher.ipynb) Our goal is to recover the TARGET_BYTE, which for this example is Byte 0 of the S-box out operation, Round 1(of an unprotected software AES implementation). By changing the value of the variable TARGET_BYTE in the provided notebook, you can recover other bytes. 
 
 One difference to the [previous example](https://ileanabuhan.github.io/general/2021/05/07/SNR-tutorial.html) is that we have to compute not one SNR trace but 256 traces, one for each possible values of the TARGET_BYTE. The figure above illustrates the computation of the SNR trace for one key candidate (depicted by the small yellow square). As the value of the key candidate changes, the value of the intermediate value changes as well (shown as the small dark blue square). The last step before computing the SNR trace is to group the traces (illustrated by the buckets in the figure) according to the respective value of the TARGET_BYTE (in the previous example, this was green and blue zebras). For our example N, the number of traces is 10000, and each trace has 15000 samples. 
 
