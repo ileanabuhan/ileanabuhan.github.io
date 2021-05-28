@@ -22,7 +22,7 @@ We want to know which of the features *weight* or *height* could be best used to
 
 The SNR can be computed in three easy steps as shown in the figure below:
 
-![SNR for zebras]({{site.url}}/assets/img/SNRtuto/steps_all_corr.png){:class="img-responsive"}
+![SNR for zebras]({{site.url}}/assets/img/SNRtuto/SNR_zebras.png){:class="img-responsive"}
 
 1. *Compute signal* for each group and each feature respectively. In our dataset of 400 zebras, the green zebras have an average weight of 55.19 kg and an average height of 166.09 cm. For the blue zebras, the average weight is 65.15 kg and the average height is 169.93 cm.
 
