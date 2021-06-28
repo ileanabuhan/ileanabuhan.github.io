@@ -8,11 +8,14 @@ authored: Ileana Buhan
 
 In our quest to understand *perceived information*, we aim to minimize mathematical formulae and maximize the pleasure of interactive learning. I recommend the original paper for those who prefer a formal explanation (see notes at the end of this tutorial). Let us begin with basic identity information:
 
-`Species: Information theoretic metric for resilience to side-channel attack`</br>
-`Date of birth: 2011`</br>
-`Origin: EUROCRYPT</br>`
-`Parents: M. Renauld, FX. Standaert, N. Veyrat-Charvillon, D. Kamel, D. Flandre`</br>
-`Known associates: O. Bronchain, J.M. Hendrickx,  C. Massart, A.Olshevsky`</br>
+`Species: Information theoretic metric for resilience to side-channel attack. 
+`
+
+`Date of birth: 2011`
+
+`Origin: EUROCRYPT`
+
+`Creators: M. Renauld, FX. Standaert, N. Veyrat-Charvillon, D. Kamel, D. Flandre`
 
 In side-channel analysis, mutual information was introduced to measure the resilience of a cryptographic implementation to side-channel attacks. It has two interesting properties: first, it is independent of the adversary capabilities, and second, it has the same meaning regardless of the implementation or the used countermeasures. Sounds good, right? Unfortunately, there is a problem. 
 
