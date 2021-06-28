@@ -1,0 +1,43 @@
+	
+Aims
+At the end of the course students can:
+-  explain how smartcards and RFID tags work, and 
+- explain their security objectives, and the hardware, software, principles, and techniques used to achieve these;
+- explain currently known attacks on smartcards and associated countermeasures;
+build a simple smartcard application from scratch, incl. the associated protocol design and key management;
+- carry out SPA and DPA attacks on smartcards.
+
+Content
+Hardware plays an important role in securing many computer systems and applications. Smartcards are the prime example of secure hardware in common use today. In many systems smartcards are used for the secure storage of data and as a secure computing platform for security-critical operations, e.g. in bank cards, electronic passports, mobile phone SIMs, or as trusted elements in larger computing devices. Given their widespread usage and the security interests at stake, techniques for attacks and defensive are highly evolved for smartcards, probably more so than for any other type of computing system.
+
+This course treats all aspects of smartcards and their contactless cousins, RFID tags, incl. hardware, communication standards, and software, the security objectives these are meant to provide, attack techniques and countermeasures, at the level of both hardware and software.
+ 
+
+
+Additional comments
+
+This course is an optional course in the TRU/e cyber security master specialisation.
+
+
+
+Topics
+
+Topics:
+
+• Smartcards & RFID: hardware, operating systems, software, ISO7816, ISO14443;
+• Attacks (logical attacks, side-channel attacks, fault injection, invasive attacks) and countermeasures;
+• Side-channel analysis: SPA, DPA;
+• The JavaCard smartcard platform, secure coding of JavaCard applications;
+• Sample applications, such as banking/EMV, e-passports, ov-chipkaart, GSM SIMs.
+
+
+
+Test information
+
+The course will be evaluated on the basis of the project work and assignments.
+
+
+
+Prerequisites
+
+You are expected to have good knowledge of standard cryptography and have some Java programming skills.
