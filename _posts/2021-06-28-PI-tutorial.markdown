@@ -36,7 +36,7 @@ Additionally, we know that chips manufactured in the same batch have slight vari
 
 Ok, ok.. perceived information is a *lower bound* on mutual information. It gives us *the amount of information extracted from a leaking device* thanks to an estimated statistical model. Said statistic model is possibly degraded due to *estimation errors* and *assumption errors* (we assume the target has one distribution, but in reality, it has a different one). A lower bound is not really useful unless we have an upper bound. Luckily, in 2019, *hypothetical information, an* upper bound for mutual information, was introduced. It gives the *amount of information that can be extracted from a leaking device in the worst case.*
 
-The figure below shows with  blue dots, the samples we want to attack/profile, are shown with. The estimated probability density for the variable $L|K$  is used to calculate the hypothetical information (to a careful observer who has opened [this interactive notebook](https://github.com/ileanabuhan/Tutorial-on-entropies/blob/master/Mutual%20Entropy%20for%20SCA%20%20with%20bounds.ipynb) its formula looks identical to that of mutual information). 
+The figure below shows with  blue dots, the samples we want to attack/profile, are shown with. The estimated probability density for the variable $L\|K$  is used to calculate the hypothetical information (to a careful observer who has opened [this interactive notebook](https://github.com/ileanabuhan/Tutorial-on-entropies/blob/master/Mutual%20Entropy%20for%20SCA%20%20with%20bounds.ipynb) its formula looks identical to that of mutual information). 
 
 ![PI_HI]({{site.url}}/assets/img/PI-tutorial/PI_HI.png){:class="img-responsive"} 
 
