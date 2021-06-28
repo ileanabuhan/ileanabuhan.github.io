@@ -26,6 +26,8 @@ We said that we can use mutual information to measure the resilience of a crypto
 
 ![Sampling_math]({{site.url}}/assets/img/PI-tutorial/MI_SCA.png){:class="img-responsive"} 
 
+The savvy reader has realized that mutual information is defined as: $I(K;L)=H(K)-H(K||L)$, and we do not have variable $K|L$. Luckily this problem was solved, and you can see how to derive the formula of mutual information in this [interactive notebook.](https://github.com/ileanabuhan/Tutorial-on-entropies/blob/master/Mutual Entropy for SCA  with bounds.ipynb) 
+
 **So what is the problem?**
 
 Somewhat surprisingly, estimating mutual information is a challenging problem. I don't mean *hard* because we don't know how to use a histogram estimator (or... for a more sophisticated touch, use a kernel estimator); hard means there are no known *unbiased estimators* for mutual information *convergence* depends on the probability density. This means that we will always have errors when estimating mutual information. 
