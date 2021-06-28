@@ -29,7 +29,7 @@ We said that we can use mutual information to measure the resilience of a crypto
 
 ![Sampling_math]({{site.url}}/assets/img/PI-tutorial/MI_SCA.png){:class="img-responsive"} 
 
-The savvy reader has realized that mutual information is defined as: $I(K;L)=H(K)-H(K||L)$, and we do not have variable $K||L$. Luckily this problem was solved, and you can see how to derive the formula of mutual information in this [interactive notebook.](https://github.com/ileanabuhan/Tutorial-on-entropies/blob/master/Mutual Entropy for SCA  with bounds.ipynb) 
+The savvy reader has realized that mutual information is defined as: $I(K;L)=H(K)-H(K\|L)$, and we do not have variable $K\|L$. Luckily this problem was solved, and you can see how to derive the formula of mutual information in this [interactive notebook.](https://github.com/ileanabuhan/Tutorial-on-entropies/blob/master/Mutual Entropy for SCA  with bounds.ipynb) 
 
 **So what is the problem?**
 
@@ -69,7 +69,7 @@ But what happens if we add more noise?  The green line shows the perceived infor
 
 I am surprised by how close the SNR curves are to the PI curves (to the point that I checked if I did not make a mistake in the plots). SNR is so much faster to compute. Also, notice that the PI values for samples (samples 2150-2200), go a little above the HI values (blue line), which should not happen and for which I do not have an explanation (yet!).  Please do let me know if you obtain different results or have an explanation for the similarity of SNR and 
 
-**Acknowledgements: **
+**Acknowledgements:**
 
 I would like to thank Lukasz  Chmielewski and Eloi Sanfelix for the useful comments in improving this post. 
 
