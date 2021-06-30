@@ -67,7 +67,7 @@ And now the figures we have been waiting for.. the orange line shows the values 
 
 But what happens if we add more noise?  The green line shows the perceived information value for the high noise scenario. Again, watch the red dot which marks the position of sample 2222. We see that interval for the possible values for mutual information is more prominent, and our estimation is less precise.
 
-I am surprised by how close the SNR curves are to the PI curves (to the point that I checked if I did not make a mistake in the plots). SNR is so much faster to compute. Also, notice that the PI values for samples (samples 2150-2200), go a little above the HI values (blue line), which should not happen and for which I do not have an explanation (yet!).  Please do let me know if you obtain different results or have an explanation for the similarity of SNR and 
+I am surprised by how close the SNR curves are to the PI curves (to the point that I checked if I did not make a mistake in the plots). SNR is so much faster to compute. Also, notice that the PI values for samples (samples 2150-2200), go a little above the HI values (blue line), which should not happen and for which I do not have an explanation (yet!).  Please do let me know if you obtain different results or have an explanation for the similarity of SNR and PI. 
 
 **Acknowledgements:**
 
