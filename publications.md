@@ -6,8 +6,9 @@ permalink: /Publications/
 
 **2021**
 
-- Ileana Buhan and Lejla Batina and Yuval Yarom and Patrick Schaumont, *SoK: Design Tools for Side-Channel-Aware Implementations*, [IACR Cryptology ePrint Archive 2021: 497 (2021)][https://eprint.iacr.org/2021/497] 
-- Guilherme Perin and Ileana Buhan and Stjepan Picek, *Learning when to stop: a mutual information approach to fight overfitting in profiled side-channel_analysis*, (COSADE 2021) [IACR Cryptology ePrint Archive 2020: 058](https://eprint.iacr.org/2020/058) 
+- Vipul Arora, Ileana Buhan, Guilherme Perin and Stjepan Picek, *A Tale of Two Boards: On the Influence of Microarchitecture on Side-Channel Leakage*, [IACR Cryptology ePrint Archive 2021:905 (2021)](https://eprint.iacr.org/2021/905)
+- Ileana Buhan, Lejla Batina, Yuval Yarom and Patrick Schaumont, *SoK: Design Tools for Side-Channel-Aware Implementations*, [IACR Cryptology ePrint Archive 2021: 497 (2021)][https://eprint.iacr.org/2021/497] 
+- Guilherme Perin, Ileana Buhan and Stjepan Picek, *Learning when to stop: a mutual information approach to fight overfitting in profiled side-channel_analysis*, (COSADE 2021) [IACR Cryptology ePrint Archive 2020: 058](https://eprint.iacr.org/2020/058) 
 
 **2020**
 
