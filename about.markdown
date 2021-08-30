@@ -17,6 +17,8 @@ Today, my main research interest is hardware security with special emphasis on t
 I am or was member of the program committees of the following conferences, workshops, and schools:
 
 - [CHES 2022](https://ches.iacr.org/2022/), September, Beijing, China
+- [DATE 2022 (DT5)](https://www.date-conference.com/?page=4), 14-23 March, Antwerpen, Belgium
+- [HASP 2021](https://haspworkshop.org/2021/index.html), 18 October 2021, virtual
 - [CHES 2021](https://ches.iacr.org/2021/), September 13-17, Virtual Conference
 - [DATE 2021 (DT5)](https://www.date-conference.com/), February 1-5, Grenoble, France
 - [CARDIS 2021](https://cardis2021.its.uni-luebeck.de/),  November 10-12, Lübeck, Germany
