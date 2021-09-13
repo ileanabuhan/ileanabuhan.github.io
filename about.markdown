@@ -4,9 +4,11 @@ title: Who am I?
 permalink: /about/
 ---
 
-Hi, since 2020, I am back to academia as an assistant professor of cryptographic engineering in the Digital Security group at the Institute for Computing and Information Sciences of the Radboud University Nijmegen. 
 
-Today, my main research interest is hardware security with special emphasis on techniques for leakage detection and I am currently working on making tools to help designers of cryptographic algorithms develop secure implementations. Below a short overview of my professional career. 
+
+ I am an assistant professor at Radboud University Nijmegen in the Digital Security Group. My current research focuses on hardware security, in particular on techniques for leakage detection. Between 2011-2020 I was with Riscure, first as a security evaluation manager responsible for executing high-assurance security evaluation projects and later as the product manager for the training unit. Between 2008-2010 I was a senior scientist at Philips, Eindhoven, The Netherlands. I finished my Ph.D., entitled Cryptography with noisy data, in 2008 under Pieter Hartel and Jeroen Doumen.  For my Ph.D. work and my contribution to the advance of biometric research, I was awarded the 2008 EBF European Biometrics Research Industry Award by European Biometric Forum.
+
+My main research interest is hardware security, emphasizing the advancement of tools to create secure hardware; below is a short overview of my professional career. 
 
  ![short cv]({{site.url}}/assets/img/cariera.png){:class="img-responsive"}
 
