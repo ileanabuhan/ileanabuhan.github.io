@@ -6,14 +6,14 @@ permalink: /Publications/
 
 **2021**
 
-- Omid Bazangani and Alexandre Iooss and Ileana Buhan and Lejla Batina, *ABBY: Automating the creation of fine-grained leakage models*, [IACR Cryptology ePrint Archive 2021/1569 (2021)](https://eprint.iacr.org/2021/1569)
+- Omid Bazangani, Alexandre Iooss, Ileana Buhan and Lejla Batina, *ABBY: Automating the creation of fine-grained leakage models*, [IACR Cryptology ePrint Archive 2021/1569 (2021)](https://eprint.iacr.org/2021/1569)
 - Vipul Arora, Ileana Buhan, Guilherme Perin and Stjepan Picek, *A Tale of Two Boards: On the Influence of Microarchitecture on Side-Channel Leakage*, (CARDIS 2021), [IACR Cryptology ePrint Archive 2021:905 (2021)](https://eprint.iacr.org/2021/905)
 - Ileana Buhan, Lejla Batina, Yuval Yarom and Patrick Schaumont, *SoK: Design Tools for Side-Channel-Aware Implementations*, [IACR Cryptology ePrint Archive 2021: 497 (2021)](https://eprint.iacr.org/2021/497) 
 - Guilherme Perin, Ileana Buhan and Stjepan Picek, *Learning when to stop: a mutual information approach to fight overfitting in profiled side-channel_analysis*, (COSADE 2021) [IACR Cryptology ePrint Archive 2020: 058](https://eprint.iacr.org/2020/058) 
 
 **2020**
 
-- Melissa Azouaoui and Davide Bellizia and Ileana Buhan and Nicolas Debande and Sebastien Duval and Christophe Giraud and Eliane Jaulmes and Francois Koeune and Elisabeth Oswald and Francois-Xavier Standaert and Carolyn Whitnall, _A Systematic Appraisal of Side Channel Evaluation Strategies_, [IACR Cryptology ePrint Archive 2019: 860 (2020)](https://eprint.iacr.org/2020/1347)  (SSR 2020)
+- Melissa Azouaoui, Davide Bellizia, Ileana Buhan, Nicolas Debande, Sebastien Duval,  Christophe Giraud, Eliane Jaulmes, Francois Koeune, Elisabeth Oswald, Francois-Xavier Standaert and Carolyn Whitnall, _A Systematic Appraisal of Side Channel Evaluation Strategies_, [IACR Cryptology ePrint Archive 2019: 860 (2020)](https://eprint.iacr.org/2020/1347)  (SSR 2020)
 
 
 **2019**
@@ -22,16 +22,16 @@ permalink: /Publications/
 
 **2016**
 
-- Rauf Mahmudlu, Valentina Banciu, Lejla Batina, Ileana Buhan:
+- Rauf Mahmudlu, Valentina Banciu, Lejla Batina and Ileana Buhan:
 _LDA-Based Clustering as a Side-Channel Distinguisher_. RFIDSec 2016: 62-75, (2016) 
 
 **2009**
 
-- Ileana Buhan, Bas Boom, Jeroen Doumen, Pieter Hartel, Raymond Veldhuis, _Secure Ad-hoc Pairing with Biometrics: SAfE_, International Journal of Security and Networks Special (IJSN) Special Issue on Secure Spontaneous Interaction; Vol 4(1-2):2009, Editors: R. Mayrhofer, K. Nyberg, and T. Kindberg;
+- Ileana Buhan, Bas Boom, Jeroen Doumen, Pieter Hartel and Raymond Veldhuis, _Secure Ad-hoc Pairing with Biometrics: SAfE_, International Journal of Security and Networks Special (IJSN) Special Issue on Secure Spontaneous Interaction; Vol 4(1-2):2009, Editors: R. Mayrhofer, K. Nyberg, and T. Kindberg;
 
-- Jeroen Breebaart, Bian Yiang, Ileana Buhan, Cristopher Busch, Biome-tric Template Protection, _The need for open standards_, Datenschutz und Datensicherheit-Dud, May 2009, Volume 33, Issue 5, pp 299-304,Viewweg Verlag, Darmstad.
+- Jeroen Breebaart, Bian Yiang, Ileana Buhan and Cristopher Busch, Biometric Template Protection, _The need for open standards_, Datenschutz und Datensicherheit-Dud, May 2009, Volume 33, Issue 5, pp 299-304,Viewweg Verlag, Darmstad.
 
-- Buhan, I.R.; Breebaart J.D.; Guajardo J.; de Groet K.; Kelkboom E.J.K; Akkermans,T.H.;  _A quantitative Analysis of Indistinguishability for a continuous domain biometric cryptosystem_; In: Fourth International Workshop on Data Privacy Management (DPM 2009) (to appear); 24-25 September, 2009 Saint Malo France; Lecture Notes in Computer Science, Springer;
+- Ileana Buhan, Jeroen Breebaart, Jorge Guajardo, Koen de Groet, Emille Kelkboom and Tom Akkermans;  _A quantitative Analysis of Indistinguishability for a continuous domain biometric cryptosystem_; In: Fourth International Workshop on Data Privacy Management (DPM 2009) (to appear); 24-25 September, 2009 Saint Malo France; Lecture Notes in Computer Science, Springer;
 
 - Ileana Buhan, _Secure Information Exchange_, Keesing Journal of Documents & Identity (KJD-28), pages (17-19), February, 2009;
 
@@ -39,7 +39,7 @@ _LDA-Based Clustering as a Side-Channel Distinguisher_. RFIDSec 2016: 62-75, (20
 
 - Ileana Buhan, _Cryptographic keys from noisy data, theory and applications_, PhD thesis, University of Twente, CTIT Ph.D.-thesis series No. 08-129 ISBN 987-9-03652-738-5; October 2008;
 
-- Ileana Buhan, Jeroen Doumen, Pieter Hartel, Qiang Tang, Raymond Veldhuis,
+- Ileana Buhan, Jeroen Doumen, Pieter Hartel, Qiang Tang and Raymond Veldhuis,
 _Embedding Renewable Cryptographic Keys into Continuous Noisy Data_,
 International Journal of Information Security; ICICS 2008, Lecture Notes in Computer Science, vol 5308, Springer, Berlin, Editors: L. Chen; G. Wang; M. Ryan;
 
