@@ -7,13 +7,13 @@ permalink: /Publications/
 **2021**
 
 - Omid Bazangani, Alexandre Iooss, Ileana Buhan and Lejla Batina, *ABBY: Automating the creation of fine-grained leakage models*, [IACR Cryptology ePrint Archive 2021/1569 (2021)](https://eprint.iacr.org/2021/1569)
-- Vipul Arora, Ileana Buhan, Guilherme Perin and Stjepan Picek, *A Tale of Two Boards: On the Influence of Microarchitecture on Side-Channel Leakage*, (CARDIS 2021), [IACR Cryptology ePrint Archive 2021:905 (2021)](https://eprint.iacr.org/2021/905)
+- Vipul Arora, Ileana Buhan, Guilherme Perin and Stjepan Picek, *A Tale of Two Boards: On the Influence of Microarchitecture on Side-Channel Leakage*, [CARDIS 2021](https://eprint.iacr.org/2021/905);
 - Ileana Buhan, Lejla Batina, Yuval Yarom and Patrick Schaumont, *SoK: Design Tools for Side-Channel-Aware Implementations*, [IACR Cryptology ePrint Archive 2021: 497 (2021)](https://eprint.iacr.org/2021/497) 
-- Guilherme Perin, Ileana Buhan and Stjepan Picek, *Learning when to stop: a mutual information approach to fight overfitting in profiled side-channel_analysis*, (COSADE 2021) [IACR Cryptology ePrint Archive 2020: 058](https://eprint.iacr.org/2020/058) 
+- Guilherme Perin, Ileana Buhan and Stjepan Picek, *Learning when to stop: a mutual information approach to fight overfitting in profiled side-channel_analysis*, [COSADE 2021](https://eprint.iacr.org/2020/058);
 
 **2020**
 
-- Melissa Azouaoui, Davide Bellizia, Ileana Buhan, Nicolas Debande, Sebastien Duval,  Christophe Giraud, Eliane Jaulmes, Francois Koeune, Elisabeth Oswald, Francois-Xavier Standaert and Carolyn Whitnall, _A Systematic Appraisal of Side Channel Evaluation Strategies_, [IACR Cryptology ePrint Archive 2019: 860 (2020)](https://eprint.iacr.org/2020/1347)  (SSR 2020)
+- Melissa Azouaoui, Davide Bellizia, Ileana Buhan, Nicolas Debande, Sebastien Duval,  Christophe Giraud, Eliane Jaulmes, Francois Koeune, Elisabeth Oswald, Francois-Xavier Standaert and Carolyn Whitnall, _A Systematic Appraisal of Side Channel Evaluation Strategies_, [SSR 2020](https://eprint.iacr.org/2020/1347) 
 
 
 **2019**
