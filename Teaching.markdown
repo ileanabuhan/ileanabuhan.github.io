@@ -25,7 +25,7 @@ Research Internships/Batchelor thesis
 
 - *Hardware Security*. SPI sniffing demo; build a prototype that monitors and interprets the communication an Arduino microcontroller and an external flash. A [bus pirate][http://dangerousprototypes.com/docs/Bus_Pirate] is used for the sniffing.
 
-   *Difficulty: required programming skills, no prior experience with hardware is needed.*
+  *Difficulty: required programming skills, no prior experience with hardware is needed.*
 
 - *Hardware security*. Flash memory extraction: The memory extraction target is an off-the-shelf home device that comes with two different flash memories. While the extraction of one flash memory type went smoothly using the [bus pirate][http://dangerousprototypes.com/docs/Bus_Pirate],  the other did not. 
 
@@ -51,7 +51,7 @@ Research Internships/Batchelor thesis
 
 **Completed**
 
-* *Security analysis of a router* (Batchelor thesis). The object of this investigation is not to only report on vulnerabilitie but evalute the  state of the security of the device, which includes noting when appropriate security measures are being taken (presentation 25th January 2022)
+* *Security analysis of a router* (Batchelor thesis), Ciske Harsema (presentation 25th January 2022)
 * *Calculating the vulnerability remediation order based on open source intelligence* @Northwave, (Master thesis) Richard van Ginkel (presentation 29 October 2021), [Link to thesis](https://www.ru.nl/publish/pages/769526/richard_van_ginkel.pdf).
 * *SCA Leakage Detection Framework*, (Internship Project), Tamas Razman, (presentation June 2021),  [LeakageDetectionFramework](https://github.com/RazePerson/sca-leakage-detection-framework).
 * *Modeling the pipeline effect on the power signature of individual instructions*, (Internship Project), Jurian van Geest, (presentation May 2021).
