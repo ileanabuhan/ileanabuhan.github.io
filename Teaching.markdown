@@ -10,9 +10,9 @@ permalink: /teaching/
   - Matrix Calculation, NWI-IPC017, (Winter 2020, 2021)
 - Master Courses
   - Selected topics on hardware for security, NWI-IMC065, (Winter 2021)
-    - Lecture 1: Introduction to embedded security ([Slides](lectures/Lecture_1_handout.pdf)).
-    - Lecture 2: Embeddeds security continued ([Slides](lectures/Lecture_2_handout.pdf)).
-    - Lecture 5: Random number generators ([Slides](lectures/Lecture_5_handout.pdf)).
+    - Lecture 1: Introduction to embedded security ([Slides](https://github.com/ileanabuhan/talks_slides/blob/main/lectures/Lecture_1_handout.pdf)).
+    - Lecture 2: Embeddeds security continued ([Slides](https://github.com/ileanabuhan/talks_slides/blob/main/lectures/Lecture_2_handout.pdf)).
+    - Lecture 5: Random number generators ([Slides](https://github.com/ileanabuhan/talks_slides/blob/main/lectures/Lecture_5_handout.pdf)).
   - Physical attacks on secure systems, NWI-IMC068, (Spring 2022)
 
 
