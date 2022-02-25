@@ -15,39 +15,22 @@ permalink: /teaching/
     - Lecture 5: Random number generators ([Slides](https://github.com/ileanabuhan/talks_slides/blob/main/lectures/Lecture_5_handout.pdf)).
   - Physical attacks on secure systems, NWI-IMC068, (Spring 2022)
 
-
-
 **Master Thesis and Research Internships**
 
 If you like embedded systems and are looking for a project which mixes hands-on work with just the right amount of theory contact me. Depending on your skills and interestes we will define together a nice project for you. I have listed some available topics below. 
 
 Research Internships/Batchelor thesis
 
-*Difficulty: required programming skills, no prior experience with hardware is needed.*
-
 - *Data visualization*. This project aims to capture the evolution of the processing capabilities of pre-silicon tooling when analyzing hardware implementations in academic research papers. The parameters of interest are time, design complexity, abstraction layer, etc. Data extraction is included in the project.
-
-  *Difficulty:  understanding the hardware language is useful, but not stricly required.*
-
-
 
 **In progress**
 
-- *Building complex leakage models* (Master thesis) @Riscure This project investigates the use of benchmark codes  for the purpose of identifying the source of the leakages which threaten masked implementations  to ensure 1st order security. *(from January 2022)*
-
-- *Annotation of power traces*, (Master thesis),  A power traces is a time series which represents a set of events as executed by a physical device. Altough we know which instructions, the target device is executing, the micro-architecture implementation is unknown and will influence the execution of instructions. In this project we explore techniques to annotate sampels in the power trace with the corresponding instructions. 
-
-- *Power-based Side-Channel Instruction-level Disassembler* (Master thesis)@Minister van Binnenlandse Zaken; 
-
-- *Evaluating the impact of ransomware* @Northwave, (Master thesis); 
-
-- *Efficient, cost effective sniffing for SPI and I2C* protocols for an Arduino microcontroller, (Batchelor  thesis);
-
-- *Threat analysis of an industrial system* @GAIN (Research internship) (from February 2022); 
-
-  
-
-
+- **Master thesis**: *Building complex leakage models*  @Riscure This project investigates the use of benchmark codes  for the purpose of identifying the source of the leakages which threaten masked implementations  to ensure 1st order security. 
+- **Master thesis**:  *Annotation of power traces* In this project we explore techniques to annotate sampels in the power trace with the corresponding instructions. 
+- **Master thesis**: *Power-based Side-Channel Instruction-level Disassembler* @Minister van Binnenlandse Zaken; 
+- **Master thesis:**  *Evaluating the impact of ransomware* @Northwave ; 
+- **Batchelor  thesis**:  *Efficient, cost effective sniffing for SPI and I2C* protocols for an Arduino microcontroller;
+- **Research internship**: *Threat analysis of an industrial system* @GAIN  (from February 2022); 
 
 **Completed**
 
