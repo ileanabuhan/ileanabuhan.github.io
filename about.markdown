@@ -8,7 +8,7 @@ permalink: /about/
 
 
 
- ![short cv]({{site.url}}/assets/img/cariera.png){:height="20%" width="20%"}
+ ![short cv]({{site.url}}/assets/img/Ileana.jpeg){:height="20%" width="20%"}
 
 I am an assistant professor at Radboud University Nijmegen in the Digital Security Group. My current research focuses on hardware security, in particular on techniques for leakage detection.
 
