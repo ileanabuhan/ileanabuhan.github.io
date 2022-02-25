@@ -6,7 +6,7 @@ permalink: /about/
 
 
 
-<img src="Ileana.png"      alt="Markdown Monster icon"      style="float: left; margin-right: 10px;" />
+<img src="Ileana.Jpeg"      alt="Markdown Monster icon"      style="float: left; margin-right: 10px;" />
 
 I am an assistant professor at Radboud University Nijmegen in the Digital Security Group. My current research focuses on hardware security, in particular on techniques for leakage detection. Between 2011-2020 I was with Riscure, first as a 
 
