@@ -8,9 +8,9 @@ permalink: /about/
 
 
 
+ ![short cv]({{site.url}}/assets/img/cariera.png){:height="20%" width="20%"}
 
-
-|<img src="/Users/ileana/Documents/GitHub/ileanabuhan.github.io/assets/img/Ileana.jpeg" style="zoom:7%;" /> |I am an assistant professor at Radboud University Nijmegen in the Digital Security Group. My current research focuses on hardware security, in particular on techniques for leakage detection.|
+I am an assistant professor at Radboud University Nijmegen in the Digital Security Group. My current research focuses on hardware security, in particular on techniques for leakage detection.
 
  Between 2011-2020 I was with Riscure, first as a security evaluation manager responsible for executing high-assurance security evaluation projects and later as the product manager for the training unit. Between 2008-2010 I was a senior scientist at Philips, Eindhoven, The Netherlands. I finished my Ph.D., entitled Cryptography with noisy data, in 2008 under Pieter Hartel and Jeroen Doumen.  For my Ph.D. work and my contribution to the advance of biometric research, I was awarded the 2008 EBF European Biometrics Research Industry Award by European Biometric Forum.
 
