@@ -13,6 +13,7 @@ The goal of this page is to provide a quick overview of the available tool to ai
 **Post-silicon side-channel leakage simulators (power)**
 
 |**Name**      | **Year**|**Leakage Model**|**Target**|**Function** |**Repo**|
+|:--------------|:-------|:------|:--------------|:--------------|:--------------|
 |[ABBY](https://link.springer.com/chapter/10.1007/978-3-319-89641-0_5)    | 2022    | gray        | ARM Cortex-M0|  Detect     |   [link](https://github.com/cryptolu/maps)|       
 |[ROSITA++](https://link.springer.com/chapter/10.1007/978-3-319-89641-0_5)| 2021    | gray        | ARM Cortex-M0|  Mitigate (2-order)|   [link](https://github.com/cryptolu/maps)|         
 |[ROSITA](https://link.springer.com/chapter/10.1007/978-3-642-42001-6_12)  | 2021    | gray        | ARM Cortex-M0|  Mitigate (1-order)|      n.a. |  
@@ -32,6 +33,7 @@ jp/SAKURA/hardware/SAKURA-G.html)|Verify   |   n.a.  |
 **Pre-silicon side-channel leakage simulators (power)**
 
 |**Name**        | **Year**|**Abstraction**|**Target**    |**Function** |**Repo**|
+|:--------------|:---------|:-----------|:--------------|:--------------|:--------------|
 |[MAPS](https://link.springer.com/chapter/10.1007/978-3-319-89641-0_5)      | 2018    | ISA          | ARM Cortex M3|  Detect     |   [link](https://github.com/cryptolu/maps)|         
 |[AMASIVE](https://link.springer.com/chapter/10.1007/978-3-642-42001-6_12)   | 2013    | RTL          |      -       |  Detect     |      n.a.   |  
 |[RT-PSC](https://jin.ece.ufl.edu/papers/VTS19.pdf)    | 2019    | RTL          |[AES-GF](http://www.aoki.
