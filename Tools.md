@@ -4,13 +4,10 @@ title: Tools
 permalink: /Tools/
 ---
 
+A quick overview of  available tools for aid in securing cryptographic implementations against *physical side-channel attacks*. A detailed analysis of the tools listed below can be found in our [paper](https://eprint.iacr.org/2021/497) **SoK: Design Tools for Side-Channel-Aware Implementations** authored with *Lejla Batina, Patrick Schaumont and Yuval Yarom*, which will appear at ASIACCS 2022.
 
-A quick overview of the available tool to aid securing cryptographic implementations against *physical side-channel attacks*. 
-
-
-
-**Post-silicon side-channel leakage simulators (power)**
-The list of tools is ordered on the year when the simulator was published. 
+**Post-silicon side-channel leakage emulators (power)**
+The list is ordered by publication year.
 
 |**Name**      | **Year**|**Leakage Model**|**Target**|**Function** |
 |:--------------|:-------|:------|:--------------|:--------------|
@@ -29,16 +26,14 @@ The list of tools is ordered on the year when the simulator was published.
 |[InspectorSCA](https://www.riscure.com/security-tools/inspector-sca)|2007 | black       |software | Mitigate|
 |[PINPAS](https://research.utwente.nl/en/publications/pinpas-a-tool-for-power-analysis-of-smartcards)     |2003  | black       |smartcards  | Mitigate|
 
-**EM side-channel leakage simulators**
-
-
+**EM side-channel leakage emulation**
 
 
 |**Name**      | **Year**|**Leakage Model**|**Target**|**Function** |
 |:--------------|:-------|:------|:--------------|:--------------|
 |[EMSIM](https://ieeexplore.ieee.org/document/9065440)    | 2020    | white        | Risc-V(custom)| Detect     |
 
-**Pre-silicon side-channel leakage simulators (power)**
+**Pre-silicon side-channel leakage emulators (power)**
 The list of tools is ordered according to the abstraction level captured by the tool. 
 
 |**Name**        | **Year**|**Abstraction**|**Target**    |**Function** |
@@ -47,7 +42,7 @@ The list of tools is ordered according to the abstraction level captured by the 
 |[AMASIVE](https://link.springer.com/chapter/10.1007/978-3-642-42001-6_12)   | 2013    | RTL          |      -                     |  Detect     |
 |[RT-PSC](https://jin.ece.ufl.edu/papers/VTS19.pdf)    | 2019    | RTL          |[AES-GF](http://www.aoki.ecei.tohoku.ac.jp/crypto/web/cores.html),  [AES_LUT](http://satoh.cs.uec.ac.jp/SAKURA/hardware/SAKURA-G.html)|Detect|
 |[NCSIM](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.113.638&rep=rep1&type=pdf)|2007|gate|[SCARD](https://cordis.europa.eu/project/id/507270)|Detect|
-|[CASCADE](https://www.esat.kuleuven.be/cosic/publications/article-3204.pdf) , [**repo**](https://github.com/dsijacic/CASCADE)| 2020   |  gate |ASIC(custom)|Detect|
+|[CASCADE](https://www.esat.kuleuven.be/cosic/publications/article-3204.pdf), [**repo**](https://github.com/dsijacic/CASCADE)| 2020   |  gate |ASIC(custom)|Detect|
 | [Patch](https://link.springer.com/article/10.1007/s11227-021-03927-w) | 2021 | gate     | AES                               | Mitigate |
 |[PARAM](https://arxiv.org/abs/1911.08813)     | 2020    | gate         |RISC-V(ShaktiC)             | Verify     |
 |[ACA](https://eprint.iacr.org/2020/1192)       | 2020    | gate         |RISC-V(LEON3)               | Detect|
