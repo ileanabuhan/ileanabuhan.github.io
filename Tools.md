@@ -7,9 +7,10 @@ permalink: /Tools/
 
 A quick overview of the available tool to aid securing cryptographic implementations against *physical side-channel attacks*. 
 
-**EM side-channel leakage simulators**
+
 
 **Post-silicon side-channel leakage simulators (power)**
+The list of tools is ordered on the year when the simulator was published. 
 
 |**Name**      | **Year**|**Leakage Model**|**Target**|**Function** |
 |:--------------|:-------|:------|:--------------|:--------------|
@@ -28,7 +29,17 @@ A quick overview of the available tool to aid securing cryptographic implementat
 |[InspectorSCA](https://www.riscure.com/security-tools/inspector-sca)|2007 | black       |software | Mitigate|
 |[PINPAS](https://research.utwente.nl/en/publications/pinpas-a-tool-for-power-analysis-of-smartcards)     |2003  | black       |smartcards  | Mitigate|
 
+**EM side-channel leakage simulators**
+
+
+
+
+|**Name**      | **Year**|**Leakage Model**|**Target**|**Function** |
+|:--------------|:-------|:------|:--------------|:--------------|
+|[EMSIM](https://ieeexplore.ieee.org/document/9065440)    | 2020    | white        | Risc-V(custom)| Detect     |
+
 **Pre-silicon side-channel leakage simulators (power)**
+The list of tools is ordered according to the abstraction level captured by the tool. 
 
 |**Name**        | **Year**|**Abstraction**|**Target**    |**Function** |
 |:--------------|:---------|:-----------|:--------------|:--------------|
