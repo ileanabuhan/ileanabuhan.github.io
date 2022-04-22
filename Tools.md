@@ -20,11 +20,11 @@ The list is ordered by publication year.
 |[Reparaz](https://www.iacr.org/archive/fse2016/97830195/97830195.pdf) | 2016    | black       | software     | Detect|
 |[SLEAK](https://www.mitre.org/publications/technical-papers/sleak-a-side-channel-leakage-evaluator-and-analysis-kit)|2014   | black | ARM Cortex-A8 | Verify |
 |[SILK](https://dl.acm.org/doi/10.1145/2689702.2689706), [**repo**](https://github.com/nikita-veshchikov/silk)|2014   | black  |ATMega328P|Detect|
-|[Gagnerot](http://aurore.unilim.fr/ori-oai-search/notice/view/unilim-ori-59315)    | 2013 |     black  | RISC-V(not specified|  Mitigate   |
+|[Gagnerot](http://aurore.unilim.fr/ori-oai-search/notice/view/unilim-ori-59315)    | 2013 |     black  | RISC-V(not specified) |  Verify  |
 |[Debande](https://eprint.iacr.org/2012/703.pdf) | 2012    | gray        |not specified| Verify |
-|[Oscar](https://dl.acm.org/doi/10.1109/CSE.2009.119)  | 2009    | black       |AT90XX,ATMegaXX | Mitigate|
-|[InspectorSCA](https://www.riscure.com/security-tools/inspector-sca)|2007 | black       |software | Mitigate|
-|[PINPAS](https://research.utwente.nl/en/publications/pinpas-a-tool-for-power-analysis-of-smartcards)     |2003  | black       |smartcards  | Mitigate|
+|[Oscar](https://dl.acm.org/doi/10.1109/CSE.2009.119)  | 2009    | black       |AT90XX,ATMegaXX | Verify |
+|[InspectorSCA](https://www.riscure.com/security-tools/inspector-sca)|2007 | black       |software | Verify |
+|[PINPAS](https://research.utwente.nl/en/publications/pinpas-a-tool-for-power-analysis-of-smartcards)     |2003  | black       |smartcards  | Verify |
 
 **EM side-channel leakage emulation**
 
@@ -34,7 +34,7 @@ The list is ordered by publication year.
 |[EMSIM](https://ieeexplore.ieee.org/document/9065440)    | 2020    | white        | Risc-V(custom)| Detect     |
 
 **Pre-silicon side-channel leakage emulators (power)**
-The list of tools is ordered according to the abstraction level captured by the tool. 
+The list of tools is ordered according to the design abstraction level. 
 
 |**Name**        | **Year**|**Abstraction**|**Target**    |**Function** |
 |:--------------|:---------|:-----------|:--------------|:--------------|
