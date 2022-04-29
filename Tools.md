@@ -11,6 +11,7 @@ The list is ordered by publication year.
 
 |**Name**      | **Year**|**Leakage Model**|**Target**|**Function** |
 |:--------------|:-------|:------|:--------------|:--------------|
+|[ARMISTICE](https://eprint.iacr.org/2022/467.pdf)     | 2022    | tba       | ARM Cortex-M3| tba   |
 |[ABBY](https://eprint.iacr.org/2021/1569)    | 2022    | gray        | ARM Cortex-M0| Detect     |
 |[ROSITA++](https://eprint.iacr.org/2021/1181), [**repo**](https://github.com/0xADE1A1DE/Rositaplusplus)| 2021    | gray        | ARM Cortex-M0| Mitigate (high order)|
 |[ROSITA](https://eprint.iacr.org/2019/1445), [**repo**](https://github.com/0xADE1A1DE/Rosita)  | 2021    | gray        | ARM Cortex-M0| Mitigate (1-order)|
