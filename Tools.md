@@ -4,7 +4,7 @@ title: Tools
 permalink: /Tools/
 ---
 
-A quick overview of  available tools for aid in securing cryptographic implementations against *physical side-channel attacks*. A detailed analysis of the tools listed below can be found in our [paper](https://eprint.iacr.org/2021/497) **SoK: Design Tools for Side-Channel-Aware Implementations** authored with *Lejla Batina, Patrick Schaumont and Yuval Yarom*, which will appear at ASIACCS 2022.
+A quick overview of  available tools for aid in securing cryptographic implementations against *physical side-channel attacks*. A detailed analysis of the tools listed below can be found in our [paper](https://eprint.iacr.org/2021/497) **SoK: Design Tools for Side-Channel-Aware Implementations** authored with *Lejla Batina, Patrick Schaumont and Yuval Yarom*, which will appear at ASIACCS 2022 [video](https://files.atypon.com/acm/f2997b8d65b9e28117612ee09c55d4df).
 
 **Post-silicon side-channel leakage emulators (power)**
 The list is ordered by publication year.
@@ -47,6 +47,7 @@ The list of tools is ordered according to the design abstraction level.
 | [Patch](https://link.springer.com/article/10.1007/s11227-021-03927-w) | 2021 | gate     | AES                               | Mitigate |
 |[PARAM](https://arxiv.org/abs/1911.08813)     | 2020    | gate         |RISC-V(ShaktiC)             | Verify     |
 |[ACA](https://eprint.iacr.org/2020/1192)       | 2020    | gate         |RISC-V(LEON3)               | Detect|
+|[ACA++](https://arxiv.org/pdf/2204.11972.pdf)       | 2022    | gate         |tba               | tba|
 |[SCRIPT](https://dl.acm.org/doi/10.1145/3383445)    | 2020    | gate         |[AES-GF](http://www.aoki.ecei.tohoku.ac.jp/crypto/web/cores.html), [AES_LUT](http://satoh.cs.uec.ac.jp/SAKURA/hardware/SAKURA-G.html)| Verify       |
 | [COCO](https://pure.tugraz.at/ws/portalfiles/portal/30823144/main.pdf) |2021|gate|RISC-V ([IBEX](https://github.com/lowRISC/ibex))|Verify|
 |[COCOALMA](https://graz.pure.elsevier.com/en/publications/cocoalma-a-versatile-masking-verifier), [**repo**](https://github.com/IAIK/coco-alma)| 2021 | Tab |Tab|Tab|
