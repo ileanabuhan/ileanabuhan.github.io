@@ -19,7 +19,7 @@ permalink: /teaching/
 
 If you like embedded systems and are looking for a project which mixes hands-on work with just the right amount of theory contact me. Depending on your skills and interestes we will define together a nice project for you. I have listed some available topics below. 
 
-Research Internships/Batchelor thesis
+*Research Internships/Batchelor thesis*
 
 - *Data visualization*. This project aims to capture the evolution of the processing capabilities of pre-silicon tooling when analyzing hardware implementations in academic research papers. The parameters of interest are time, design complexity, abstraction layer, etc. Data extraction is included in the project.
 
@@ -35,7 +35,7 @@ Research Internships/Batchelor thesis
 **Completed**
 
 * *Examining a Leakage Identification Proposal for a Hardened Microprocessor*, (Master thesis) Niels van Drueten (presentation 22 February 2022).
-* *Security analysis of a router* (Batchelor thesis), Ciske Harsema (presentation 25th January 2022) [Link to thesis.][https://www.cs.ru.nl/bachelors-theses/]
+* *Security analysis of a router* (Batchelor thesis), Ciske Harsema (presentation 25th January 2022) [Link to thesis.](https://www.cs.ru.nl/bachelors-theses/)
 * *Calculating the vulnerability remediation order based on open source intelligence* @Northwave, (Master thesis) Richard van Ginkel (presentation 29 October 2021), [Link to thesis](https://www.ru.nl/publish/pages/769526/richard_van_ginkel.pdf).
 * *SCA Leakage Detection Framework*, (Internship Project), Tamas Razman, (presentation June 2021),  [LeakageDetectionFramework](https://github.com/RazePerson/sca-leakage-detection-framework).
 * *Modeling the pipeline effect on the power signature of individual instructions*, (Internship Project), Jurian van Geest, (presentation May 2021).
