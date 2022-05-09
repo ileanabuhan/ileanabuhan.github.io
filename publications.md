@@ -8,7 +8,7 @@ permalink: /Publications/
 
 **2022**
 
-* Jurian van Geest, Ileana Buhan, *A side-channel based disassembler for the ARM-Cortex M0*, AIHWS 2022, to appear; 
+* Jurian van Geest, Ileana Buhan, *A side-channel based disassembler for the ARM-Cortex M0*, [AIHWS 2022](https://eprint.iacr.org/2022/523), to appear; 
 * Niels van Druten, Konstantina Miteloudi, Ileana Buhan, *Plan your defenses: The impact of leakage detection methods for hardware modules*, HOST 2022 (WiP), to appear;  
 *  Ileana Buhan, Lejla Batina, Yuval Yarom and Patrick Schaumont, *SoK: Design Tools for Side-Channel-Aware Implementations*, [ASIACCS 2022](https://eprint.iacr.org/2021/497), to appear;
 
