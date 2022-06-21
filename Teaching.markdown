@@ -30,10 +30,10 @@ If you like embedded systems and are looking for a project which mixes hands-on 
 - **Master thesis**: *Power-based Side-Channel Instruction-level Disassembler* @Minister van Binnenlandse Zaken; 
 - **Master thesis:**  *Evaluating the impact of ransomware* @Northwave ; 
 - **Batchelor  thesis**:  *Efficient, cost effective sniffing for SPI and I2C* protocols for an Arduino microcontroller;
-- **Research internship**: *Threat analysis of an industrial system* @GAIN  (from February 2022); 
 
 **Completed**
 
+* *Threat analysis of an industrial system* (Research internship) @ GAIN, Abdulkarim Abdulkadir (presentation 10 June 2022). 
 * *Examining a Leakage Identification Proposal for a Hardened Microprocessor*, (Master thesis) Niels van Drueten (presentation 22 February 2022).
 * *Security analysis of a router* (Batchelor thesis), Ciske Harsema (presentation 25th January 2022) [Link to thesis.](https://www.cs.ru.nl/bachelors-theses/)
 * *Calculating the vulnerability remediation order based on open source intelligence* @Northwave, (Master thesis) Richard van Ginkel (presentation 29 October 2021), [Link to thesis](https://www.ru.nl/publish/pages/769526/richard_van_ginkel.pdf).
