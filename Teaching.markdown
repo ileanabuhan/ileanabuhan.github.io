@@ -26,13 +26,17 @@ If you like embedded systems and are looking for a project which mixes hands-on 
 **In progress**
 
 - **Master thesis**: *Building complex leakage models*  @Riscure This project investigates the use of benchmark codes  for the purpose of identifying the source of the leakages which threaten masked implementations  to ensure 1st order security. 
+
 - **Master thesis**:  *Annotation of power traces* In this project we explore techniques to annotate sampels in the power trace with the corresponding instructions. 
-- **Master thesis**: *Power-based Side-Channel Instruction-level Disassembler* @Minister van Binnenlandse Zaken; 
+
 - **Master thesis:**  *Evaluating the impact of ransomware* @Northwave ; 
-- **Batchelor  thesis**:  *Efficient, cost effective sniffing for SPI and I2C* protocols for an Arduino microcontroller;
+
+  
 
 **Completed**
 
+* *Efficient, cost effective sniffing for SPI and I2C* (**Batchelor  thesis**) Stefan van Ieperen (presentation August 26 2022);
+* *Power-based Side-Channel Instruction-level Disassembler*  (**Master thesis**), Jurian van Geest, (presentation July 15 2022); 
 * *Threat analysis of an industrial system* (**Research Internship**) @ GAIN, Abdulkarim Abdulkadir (presentation 10 June 2022). 
 * *Examining a Leakage Identification Proposal for a Hardened Microprocessor*, (**Master thesis**) Niels van Drueten (presentation 22 February 2022).
 * *Security analysis of a router* (**Batchelor thesis**), Ciske Harsema (presentation 25th January 2022) [Link to thesis.](https://www.cs.ru.nl/bachelors-theses/)
