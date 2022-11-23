@@ -4,6 +4,8 @@ title: Publications
 permalink: /Publications/
 ---
 
+- 
+
 - **2022**
 
 * Servio Paguada, Lejla Batina, Ileana Buhan and Igor Armendariz, *“Being Patient and Persistent: Optimizing An Early Stopping Strategy for Deep Learning in Profiled Attacks”*, Transactions on Computers, Special Issue on Hardware Security (regular paper),  [Link to paper](https://arxiv.org/abs/2111.14416);
@@ -12,7 +14,7 @@ permalink: /Publications/
 * Jurian van Geest, Ileana Buhan, *A side-channel based disassembler for the ARM-Cortex M0*, AIHWS, LNCS 13285, Springer 2022, [Link to paper](https://eprint.iacr.org/2022/523); 
 * Ileana Buhan, Lejla Batina, Yuval Yarom and Patrick Schaumont, *SoK: Design Tools for Side-Channel-Aware Implementations*, ASIACCS: 756-770, [Link](https://eprint.iacr.org/2021/497); 
 
-**2021**
+** 2021**
 
 - Omid Bazangani, Alexandre Iooss, Ileana Buhan and Lejla Batina, *ABBY: Automating the creation of fine-grained leakage models*, [IACR Cryptology ePrint Archive 2021/1569 (2021)](https://eprint.iacr.org/2021/1569)
 - Vipul Arora, Ileana Buhan, Guilherme Perin and Stjepan Picek, *A Tale of Two Boards: On the Influence of Microarchitecture on Side-Channel Leakage*, [CARDIS 2021](https://eprint.iacr.org/2021/905);
