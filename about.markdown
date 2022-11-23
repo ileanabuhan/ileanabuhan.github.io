@@ -14,11 +14,21 @@ My main research interest is hardware security, emphasizing the advancement of t
 
  ![short cv]({{site.url}}/assets/img/cariera.png){:class="img-responsive"}
 
+**Invited talks**: 
+
+- - *Return trip: From side-channel information to assembly code, Lessons learned from applying AI techniques, AICrypt*, 2nd Workshop on Artificial Intelligence and Cryptography,Trondheim, Norway May 2022; 
+  - *Automation against physical side-channel attacks, ICCSS International Solid-State Circuits Conference*  San Francisco, USA, February 2022; 
+  - *Dream or reality? Automated prediction of cryptographic vulnerabilities during hardware design*, 35th International Conference on VLSI, Design and 21st International Conference on Embedded Systems (VLSID), India, March 2022; 
+  - *A tale of many boards: an illustrated introduction to side-channel leakage emulators*, SecSI: Secure Design Strategies for Intelligent CPUs Zagreb, Croatia, November 2021;
+  - *The pocket guide to SCA evaluations*, XGEN Baia Maia, Romania,  May 2021;  
+
 **Conferences, Workshops, and Schools**
 
 I am or was member of the program committees of the following conferences, workshops, and schools:
 
-- **2022** [CARDIS](https://events.cs.bham.ac.uk/cardis2022) (program co-chair) [FDTC](https://fdtc.deib.polimi.it/FDTC22/index.html), [AIHWS](https://aihws2022.aisylab.com), [CHES](https://ches.iacr.org/2022/), [DATE (DT5)](https://www.date-conference.com/?page=4);
+- **2023** [ASIACCS][https://asiaccs2023.org/]
+
+- **2022** [CARDIS](https://events.cs.bham.ac.uk/cardis2022) (program co-chair) [FDTC](https://fdtc.deib.polimi.it/FDTC22/index.html), [AIHWS](https://aihws2022.aisylab.com), [CHES](https://ches.iacr.org/2022/), [DATE (DT5)](https://www.date-conference.com/?page=4); [SPACE][https://space2022.lnmiit.ac.in/]
 
 - **2021** [HASP](https://haspworkshop.org/2021/index.html), [CHES](https://ches.iacr.org/2021/), [DATE 2021 (DT5)](https://www.date-conference.com/), [CARDIS](https://cardis2021.its.uni-luebeck.de/), [FDTC](https://fdtc.deib.polimi.it/FDTC21/index.html), [CISIS](http://2021.cisisconference.eu/), [SPACE](http://cse.iitkgp.ac.in/conf/SPACE2021/testing-web/progcomm.php), [COSADE](https://www.cosade.org/), [AIHWS](https://aihws2021.aisylab.com/), [Alice & EVE](https://aliceandeve.cs.ru.nl/) (poster co-chair);
 

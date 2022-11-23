@@ -4,15 +4,13 @@ title: Publications
 permalink: /Publications/
 ---
 
+- **2022**
 
-
-**2022**
-
-* Servio Paguada, Lejla Batina, Ileana Buhan and Igor Armendariz, *“Being Patient and Persistent: Optimizing An Early Stopping Strategy for Deep Learning in Profiled Attacks”*, Transactions on Computers, Special Issue on Hardware Security (regular paper),  [Link to arxiv](https://arxiv.org/abs/2111.14416);
-* Servio Paguada, Lejla Batina, Ileana Buhan and Igor Armendariz, *“Playing with blocks: Toward re-usable deep learning models for side-channel profiled attacks",  IEEE Trans. Inf Forensics & Security 17,  2835-2847 (2022) [Link to arxiv](https://arxiv.org/abs/2203.08448);
-* Lejla Batina, Thomas Bäck, Ileana Buhan, Stjepan Picek, **Security and Artificial Intelligence - A Crossdisciplinary Approach.** [Lecture Notes in Computer Science](https://dblp.org/db/series/lncs/index.html) 13049, Springer 2022, ISBN 978-3-030-98794-7 [[contents\]](https://dblp.org/db/series/lncs/lncs13049.html)
-* Jurian van Geest, Ileana Buhan, *A side-channel based disassembler for the ARM-Cortex M0*, [AIHWS 2022](https://eprint.iacr.org/2022/523), to appear; 
-* Ileana Buhan, Lejla Batina, Yuval Yarom and Patrick Schaumont, *SoK: Design Tools for Side-Channel-Aware Implementations*, [ASIACCS 2022](https://eprint.iacr.org/2021/497), to appear;
+* Servio Paguada, Lejla Batina, Ileana Buhan and Igor Armendariz, *“Being Patient and Persistent: Optimizing An Early Stopping Strategy for Deep Learning in Profiled Attacks”*, Transactions on Computers, Special Issue on Hardware Security (regular paper),  [Link to paper](https://arxiv.org/abs/2111.14416);
+* Servio Paguada, Lejla Batina, Ileana Buhan and Igor Armendariz, *“Playing with blocks: Toward re-usable deep learning models for side-channel profiled attacks"*,  IEEE Trans. Inf Forensics & Security 17,  2835-2847 (2022) [Link to paper](https://arxiv.org/abs/2203.08448);
+* Lejla Batina, Thomas Bäck, Ileana Buhan, Stjepan Picek, *Security and Artificial Intelligence - A Crossdisciplinary Approach* LNCS 13049, Springer 2022 \[[contents\]](https://dblp.org/db/series/lncs/lncs13049.html)
+* Jurian van Geest, Ileana Buhan, *A side-channel based disassembler for the ARM-Cortex M0*, AIHWS, LNCS 13285, Springer 2022, [Link to paper](https://eprint.iacr.org/2022/523); 
+* Ileana Buhan, Lejla Batina, Yuval Yarom and Patrick Schaumont, *SoK: Design Tools for Side-Channel-Aware Implementations*, ASIACCS: 756-770, [Link](https://eprint.iacr.org/2021/497); 
 
 **2021**
 
