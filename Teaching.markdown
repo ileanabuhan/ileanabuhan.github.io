@@ -28,7 +28,7 @@ If you like embedded systems and are looking for a project which mixes hands-on 
 **In progress**
 
 - **Master thesis**: Ischa Stork @Riscure; Giel Belouw @Northwave; Bas van der Zandt @RU;
-- **Research Internship**: Senna van den Hoek @RU; Stefan Popa @RU; Huijing Fan @Brighsight;
+- **Research Internship**: Senna van den Hoek @RU; Stefan Popa @RU; Huijing Fan @Brighsight; Bart Hoefman; 
 - **Batchlor thesis**, Rick G.A. Schouten; Baris .Ç.Atik (from feb 2022);
 
 **Completed**
