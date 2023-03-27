@@ -25,7 +25,7 @@ My main research interest is hardware security, emphasizing the advancement of t
 
 I am or was member of the program committees of the following conferences, workshops, and schools:
 
-- **2023** [ASIACCS](https://asiaccs2023.org/); [ESORICS](https://esorics2023.org/);
+- **2023** [ASIACCS](https://asiaccs2023.org/); [ESORICS](https://esorics2023.org/); [FDTC](https://fdtc.deib.polimi.it/FDTC23/), [CARDIS](http://cardis.org/archive.html)
 
 - **2022** [CARDIS](https://events.cs.bham.ac.uk/cardis2022) (program co-chair) [FDTC](https://fdtc.deib.polimi.it/FDTC22/index.html), [AIHWS](https://aihws2022.aisylab.com), [CHES](https://ches.iacr.org/2022/), [DATE (DT5)](https://www.date-conference.com/?page=4), [SPACE](https://space2022.lnmiit.ac.in/);
 

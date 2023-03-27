@@ -18,7 +18,6 @@ permalink: /teaching/
 
 **PhD students**: 
 
-- Co-promotor [Omid Bazangani](https://omidbazangani.github.io/), Radboud University  (September 2020)
 - Co-promotor Asmita Adhikary,  Radboud University (March 2022)
 
 **Research projects with students**
@@ -27,8 +26,8 @@ If you like embedded systems and are looking for a project which mixes hands-on 
 
 **In progress**
 
-- **Master thesis**: Giel Belouw @Northwave; Bas van der Zandt @RU;
-- **Research Internship**: Senna van den Hoek @RU; Stefan Popa @RU; Huijing Fan @Brighsight; Bart Hoefman; 
+- **Master thesis**: Bas van der Zandt @RU; Shravan Sukumar @Secura; Lizzy Groetjen (from September)
+- **Research Internship**: Senna van den Hoek @RU; Stefan Popa @RU; Bart Hoefman; Anushka Jain@RU; 
 - **Batchlor thesis**, Rick G.A. Schouten; Baris Atik ; Rick Litjens; 
 
 **Completed**
@@ -43,6 +42,8 @@ If you like embedded systems and are looking for a project which mixes hands-on 
   - *Side­ channel leaks from different target devices* @Riscure, (co-supervisor with Stjepan Picek), Vipul Arora (defense December 2020).  [Link to thesis](https://repository.tudelft.nl/islandora/object/uuid:5566f6d5-2cee-4f5c-b047-7c8e36e8306f?collection=education). [Link to paper](https://eprint.iacr.org/2021/905)
   
 - **Research Internship**: 
+
+  * *Side-Channel Attack on DES and AES Algorithms* @Brighsigh,  Huijing Fan (March 2023)
 
   * *Threat analysis of an industrial system*  @ GAIN, Abdulkarim Abdulkadir ( June 2022). 
 
