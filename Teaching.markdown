@@ -18,7 +18,10 @@ permalink: /teaching/
 
 **PhD students**: 
 
+- Co-promotor Servio Luis Paguada Isaula,  Radboud University (defense July 2023)
+- Co-promotor Omid Bazangani,  Radboud University (September 2020)
 - Co-promotor Asmita Adhikary,  Radboud University (March 2022)
+- Co-promotor Peter Horvath,  Radboud University (September 2023)
 
 **Research projects with students**
 
@@ -26,9 +29,9 @@ If you like embedded systems and are looking for a project which mixes hands-on 
 
 **In progress**
 
-- **Master thesis**: Bas van der Zandt @RU; Shravan Sukumar @Secura; Lizzy Groetjen (from September)
-- **Research Internship**: Senna van den Hoek @RU; Stefan Popa @RU; Bart Hoefman; Anushka Jain@RU; 
-- **Batchlor thesis**, Rick G.A. Schouten; Baris Atik ; Rick Litjens; 
+- **Master thesis**: Bas van der Zandt @RU; Huijing Fan@Brightsight;  Lizzy Groetjen (from September)
+- **Research Internship**: Senna van den Hoek @RU;  Bart Hoefman; Anushka Jain@RU; 
+- **Batchlor thesis**, Rick G.A. Schouten; Baris Atik ; Rick Litjens; Daan Weessies (from September)
 
 **Completed**
 
@@ -43,7 +46,9 @@ If you like embedded systems and are looking for a project which mixes hands-on 
   
 - **Research Internship**: 
 
-  * *Side-Channel Attack on DES and AES Algorithms* @Brighsigh,  Huijing Fan (March 2023)
+  * *Guidelines and takeaways for setting up an Ibex Core on the Arty A7 FPGA board*, Stefan Popa (March 2023)
+
+  * *Side-Channel Attack on DES and AES Algorithms* @Brighsight,  Huijing Fan (March 2023)
 
   * *Threat analysis of an industrial system*  @ GAIN, Abdulkarim Abdulkadir ( June 2022). 
 
@@ -54,9 +59,9 @@ If you like embedded systems and are looking for a project which mixes hands-on 
 
 - **Batchelor thesis**: 
 
-  - *Efficient, cost effective sniffing for SPI and I2C* (**Batchelor  thesis**) Stefan van Ieperen (August 2022);
+  - *Efficient, cost effective sniffing for SPI and I2C*,  Stefan van Ieperen (August 2022);
 
-  * *Security analysis of a router* (**Batchelor thesis**), Ciske Harsema ( January 2022) [Link to thesis.](https://www.cs.ru.nl/bachelors-theses/)
+  * *Security analysis of a router*, Ciske Harsema ( January 2022) [Link to thesis.](https://www.cs.ru.nl/bachelors-theses/)
 
 
 
