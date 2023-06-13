@@ -30,8 +30,8 @@ If you like embedded systems and are looking for a project which mixes hands-on 
 **In progress**
 
 - **Master thesis**: Bas van der Zandt @RU; Huijing Fan@Brightsight;  Lizzy Groetjen (from September)
-- **Research Internship**: Senna van den Hoek @RU;  Bart Hoefman; Anushka Jain@RU; 
-- **Batchlor thesis**, Rick G.A. Schouten; Baris Atik ; Rick Litjens; Daan Weessies (from September)
+- **Research Internship**: Mashal Zainab ([Cyberus](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/org-details/999999999/project/101049712/program/43353764/details)), Senna van den Hoek @RU;  Bart Hoefman; Anushka Jain@RU; 
+- **Batchelor thesis**, Rick G.A. Schouten; Baris Atik ; Rick Litjens; Daan Weessies (from September)
 
 **Completed**
 
