@@ -11,7 +11,7 @@ The list is ordered by publication year.
 
 |**Name**      | **Year**|**Leakage Model**|**Target**|**Function** |
 |:--------------|:-------|:------|:--------------|:--------------|
-|[ARMISTICE](https://eprint.iacr.org/2022/467.pdf)     | 2022    | tba       | ARM Cortex-M3| tba   |
+|[ARMISTICE](https://eprint.iacr.org/2022/467.pdf)     | 2022    | white | ARM Cortex-M3| Verify |
 |[ABBY](https://eprint.iacr.org/2021/1569)    | 2022    | gray        | ARM Cortex-M0| Detect     |
 |[ROSITA++](https://eprint.iacr.org/2021/1181), [**repo**](https://github.com/0xADE1A1DE/Rositaplusplus)| 2021    | gray        | ARM Cortex-M0| Mitigate (high order)|
 |[ROSITA](https://eprint.iacr.org/2019/1445), [**repo**](https://github.com/0xADE1A1DE/Rosita)  | 2021    | gray        | ARM Cortex-M0| Mitigate (1-order)|
@@ -42,6 +42,7 @@ The list of tools is ordered according to the design abstraction level.
 |[MAPS](https://link.springer.com/chapter/10.1007/978-3-319-89641-0_5), [**repo**](https://github.com/cryptolu/maps)      | 2018    | ISA          | ARM Cortex M3              |  Detect     |
 |[AMASIVE](https://link.springer.com/chapter/10.1007/978-3-642-42001-6_12)   | 2013    | RTL          |      -                     |  Detect     |
 |[RT-PSC](https://jin.ece.ufl.edu/papers/VTS19.pdf)    | 2019    | RTL          |[AES-GF](http://www.aoki.ecei.tohoku.ac.jp/crypto/web/cores.html),  [AES_LUT](http://satoh.cs.uec.ac.jp/SAKURA/hardware/SAKURA-G.html)|Detect|
+|[TOFU](https://eprint.iacr.org/2022/129)|2022|gate| VCD files to power traces |Utility|
 |[NCSIM](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.113.638&rep=rep1&type=pdf)|2007|gate|[SCARD](https://cordis.europa.eu/project/id/507270)|Detect|
 |[CASCADE](https://www.esat.kuleuven.be/cosic/publications/article-3204.pdf), [**repo**](https://github.com/dsijacic/CASCADE)| 2020   |  gate |ASIC(custom)|Detect|
 | [Patch](https://link.springer.com/article/10.1007/s11227-021-03927-w) | 2021 | gate     | AES                               | Mitigate |
