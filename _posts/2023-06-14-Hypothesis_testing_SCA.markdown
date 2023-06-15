@@ -12,7 +12,7 @@ The tutorial aims to give participants a solid technical understanding of the me
 
 ![NHST]({{site.url}}/assets/img//Hypothesis_testing/NHST.png){:class="img-responsive"} 
 
- To follow along, download [the workbook](Croatia_23/tutorial_workbook.pdf) and  [the slides](Croatia_23/NHST-part1.pdf) and work on the exercises in the suggested order. I use three running examples to illustrate these concepts. The first, [Lake_water.ipynb](https://colab.research.google.com/drive/1geYPLVc9_ywZPMd8PQSd8R6eZ2OWX0gp?hl=en) is a one-sample t-test where we want to estimate the salt concentration in a body of water. The second, [PhD_vs_Faculty.ipynb](https://colab.research.google.com/drive/1r3RiT3YXhv9fg-gx4CJksoEJDVtQBu62?usp=sharing)  is a two-sample t-test where we test if height has an influence on the chances of becoming a faculty member. Finally, the third example [Magic_coins](https://colab.research.google.com/drive/1r3RiT3YXhv9fg-gx4CJksoEJDVtQBu62?usp=sharing) is helful for understanding p-values. 
+ To follow along, download [the workbook](https://github.com/ileanabuhan/talks_slides/blob/main/Croatia_23/tutorial_workbook.pdf) and  [the slides](https://github.com/ileanabuhan/talks_slides/blob/main/Croatia_23/NHST-part1.pdf) and work on the exercises in the suggested order. I use three running examples to illustrate these concepts. The first, [Lake_water.ipynb](https://colab.research.google.com/drive/1geYPLVc9_ywZPMd8PQSd8R6eZ2OWX0gp?hl=en) is a one-sample t-test where we want to estimate the salt concentration in a body of water. The second, [PhD_vs_Faculty.ipynb](https://colab.research.google.com/drive/1r3RiT3YXhv9fg-gx4CJksoEJDVtQBu62?usp=sharing)  is a two-sample t-test where we test if height has an influence on the chances of becoming a faculty member. Finally, the third example [Magic_coins](https://colab.research.google.com/drive/1r3RiT3YXhv9fg-gx4CJksoEJDVtQBu62?usp=sharing) is helful for understanding p-values. 
 
 ![files]({{site.url}}/assets/img//Hypothesis_testing/files.png){:class="img-responsive"} 
 
@@ -22,7 +22,7 @@ The tutorial aims to give participants a solid technical understanding of the me
 - The learning objective of exercise 2 is to practice constructing null-distributions. In question 1 we explore what is a t-score and construct the null distribution for a one-sample t-test. In  question 2 we construct a null-distribution for a two-sample t-test and in question 3 we construct a null-distribution for data that follows a binomial distribution. 
 - The learning objective of exercise 3 is  to get an intimate understanding of how p-values are computed and what they represent and as a sanity check compare the p-values we estimated with the ones calculated by the python library. 
 
-In Part 2, we apply we apply hypothesis testing, in particular a two-sample t-test on a set of real traces for traces collected for two algorithms. Use the same [workbook](Croatia_23/tutorial_workbook.pdf) and these [slides](Croatia_23/NHST-part2.pdf) for guidance.  
+In Part 2, we apply we apply hypothesis testing, in particular a two-sample t-test on a set of real traces for traces collected for two algorithms. Use the same [workbook](https://github.com/ileanabuhan/talks_slides/blob/main/Croatia_23/tutorial_workbook.pdf) and these [slides](https://github.com/ileanabuhan/talks_slides/blob/main/Croatia_23/NHST-part2.pdf) for guidance.  
 
 **Further reading**:
 
