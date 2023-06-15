@@ -6,7 +6,7 @@ categories: leakage assessment
 authored: Ileana Buhan
 ---
 
-This post has a slightly different format compared to previous posts, as the material was prepared for an three hour in-person tutorial at the amazing [summer school on on real-world crypto and privacy](https://summerschool-croatia.cs.ru.nl/2023/index.html)  in Vodice, Croatia. 
+This post has a slightly different format compared to previous posts, as the material was prepared for an three hour in-person tutorial at the amazing [summer school on real-world crypto and privacy](https://summerschool-croatia.cs.ru.nl/2023/index.html)  in Vodice, Croatia. 
 
 The tutorial aims to give participants a solid technical understanding of the mechanics of hypothesis testing in the context of side-channel analysis. In the first part, we focus on the fundamental concepts of hypothesis testing: we practise choosing the null-hypothesis $H_0$ (1), mention the data collection step (2) and  take a deep dive on testing  which requires building the *null-distribution*  estimating *p-values* (3).
 
