@@ -4,6 +4,10 @@ title: Publications
 permalink: /Publications/
 ---
 
+**2023**
+
+- Asmita Adhikary, Ileana Buhan *“**SoK: Assisted Fault Simulation - Existing Challenges and Opportunities Offered by AI**”*, AIHWS (to appear)  [Link to paper](https://eprint.iacr.org/2022/1675);
+
 **2022**
 
 * Servio Paguada, Lejla Batina, Ileana Buhan and Igor Armendariz, *“Being Patient and Persistent: Optimizing An Early Stopping Strategy for Deep Learning in Profiled Attacks”*, Transactions on Computers, Special Issue on Hardware Security (regular paper),  [Link to paper](https://arxiv.org/abs/2111.14416);
