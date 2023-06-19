@@ -27,7 +27,19 @@ In Part 2, we apply we apply hypothesis testing, in particular a two-sample t-te
 **Further reading**:
 
 - The Reassure project produced a very interesting tutorial on [Understanding Leakage Detection]( *https://reassure.eu/leakage-detection-tutorial/*)  worth checking out.
+
 - Carolyn Whitnall, Elisabeth Oswald: *A Critical Analysis of ISO 17825 ('Testing Methods for the Mitigation of Non-invasive Attack Classes Against Cryptographic Modules').* ASIACRYPT (3) 2019: 256-284;
+
 - François-Xavier Standaert: *How (Not) to Use Welch's T-Test in Side-Channel Security Evaluations.* CARDIS 2018: 65-79
+
 - Tobias Schneider, Amir Moradi: *Leakage Assessment Methodology - A Clear Roadmap for Side-Channel Evaluations.* CHES 2015 495-513;
+
+- Lichao Wu, Léo Weissbart, Marina Krček, Huimin Li, Guilherme Perin, Lejla Batina, and Stjepan Picek, *On the Attack Evaluation and the Generalization Ability in Profiling Side-channel Analysis*, https://eprint.iacr.org/2020/899
+
+- Unai Rioja, Servio Paguada, Lejla Batina, Igor Armendariz:*The Uncertainty of Side-channel Analysis: A Way to Leverage from Heuristics*. ACM J. Emerg. Technol. Comput. Syst. 17(3): 40:1-40:27 (2021)
+
+  
+
+  
+
 
