@@ -30,8 +30,8 @@ If you like embedded systems and are looking for a project which mixes hands-on 
 **In progress**
 
 - **Master thesis**: Bas van der Zandt @RU; Huijing Fan@Brightsight;  Lizzy Groetjen (from September)
-- **Research Internship**: Mashal Zainab ([Cyberus](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/org-details/999999999/project/101049712/program/43353764/details)), Senna van den Hoek @RU;  Bart Hoefman; Anushka Jain@RU; 
-- **Batchelor thesis**, Rick G.A. Schouten; Baris Atik ; Rick Litjens; Daan Weessies (from September)
+- **Research Internship**:  Anushka Jain@RU; 
+- **Batchelor thesis**, Rick G.A. Schouten;  Daan Weessies (from September)
 
 **Completed**
 
@@ -46,6 +46,10 @@ If you like embedded systems and are looking for a project which mixes hands-on 
   
 - **Research Internship**: 
 
+  * *Visualizing the memory instruction patterns in ARMv7-M firmware using ACID*, Senna van Hoek, (July 2023)
+
+  * *Extending FiSim, a Fault Attack Simulator*, Mashal Zainab ([Cyberus](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/org-details/999999999/project/101049712/program/43353764/details)), (June 2023)
+
   * *Guidelines and takeaways for setting up an Ibex Core on the Arty A7 FPGA board*, Stefan Popa (March 2023)
 
   * *Side-Channel Attack on DES and AES Algorithms* @Brighsight,  Huijing Fan (March 2023)
@@ -59,8 +63,10 @@ If you like embedded systems and are looking for a project which mixes hands-on 
 
 - **Batchelor thesis**: 
 
+  - *Extracting firmware from flash memory chips*, Rick Litjens (June 2023)
+  - *Exploring the Current NFC Market: Assessing Security Vulnerabilities and Potential Attacks*, Baris Atik (June 2023)
   - *Efficient, cost effective sniffing for SPI and I2C*,  Stefan van Ieperen (August 2022);
-
+  
   * *Security analysis of a router*, Ciske Harsema ( January 2022) [Link to thesis.](https://www.cs.ru.nl/bachelors-theses/)
 
 
