@@ -26,7 +26,7 @@ In Part 2, we apply we apply hypothesis testing, in particular a two-sample t-te
 
 **Further reading**:
 
-- The Reassure project produced a very interesting tutorial on [Understanding Leakage Detection]( *https://reassure.eu/leakage-detection-tutorial/*)  worth checking out.
+- The Reassure project produced a very interesting tutorial on [Understanding Leakage Detection](https://reassure.eu/leakage-detection-tutorial/)  worth checking out.
 
 - Carolyn Whitnall, Elisabeth Oswald: *A Critical Analysis of ISO 17825 ('Testing Methods for the Mitigation of Non-invasive Attack Classes Against Cryptographic Modules').* ASIACRYPT (3) 2019: 256-284;
 
@@ -41,5 +41,4 @@ In Part 2, we apply we apply hypothesis testing, in particular a two-sample t-te
   
 
   
-
 
