@@ -21,7 +21,7 @@ permalink: /teaching/
 - Co-promotor Servio Luis Paguada Isaula,  Radboud University (defense July 2023)
 - Co-promotor Omid Bazangani,  Radboud University (September 2020)
 - Co-promotor Asmita Adhikary,  Radboud University (March 2022)
-- Co-promotor Peter Horvath,  Radboud University (September 2023)
+- Co-promotor Peter Horvath,  Radboud University (November 2023)
 
 **Research projects with students**
 
@@ -29,9 +29,9 @@ If you like embedded systems and are looking for a project which mixes hands-on 
 
 **In progress**
 
-- **Master thesis**: Bas van der Zandt @RU; Huijing Fan@Brightsight;  Lizzy Groetjen (from September)
-- **Research Internship**:  Anushka Jain@RU; 
-- **Batchelor thesis**, Rick G.A. Schouten;  Daan Weessies (from September)
+- **Master thesis**: Bas van der Zandt @RU; Huijing Fan@Brightsight;  Lizzy Groetjen;  Shravan Sukumar; 
+- **Research Internship**:  Anushka Jain; Bart Hoffman; 
+- **Batchelor thesis**, Rick G.A. Schouten;  Daan Weessies; Robin Put; 
 
 **Completed**
 
