@@ -19,7 +19,6 @@ permalink: /teaching/
 **PhD students**: 
 
 - Co-promotor Servio Luis Paguada Isaula,  Radboud University (defense July 2023)
-- Co-promotor Omid Bazangani,  Radboud University (September 2020)
 - Co-promotor Asmita Adhikary,  Radboud University (March 2022)
 - Co-promotor Peter Horvath,  Radboud University (November 2023)
 
