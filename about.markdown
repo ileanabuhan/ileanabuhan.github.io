@@ -14,9 +14,11 @@ My main research interest is hardware security, emphasizing the advancement of t
 
 **Invited talks/tutorials**:
 
-- *Hypothesis testing for leakage assessment in side channel analysis*, Summer School on real-world crypto and privacy, Vodice, Croatia, June 2023
+- *Current approaches in the formal verification of cryptograpfic algorithm implementations*, Formosa retreat, Eindhoven, July 2023;
 
-- *Lessons learned from applying deep learning to clone an ARM-Cortex M0*,  Graduate Seminars at Worcester Polytechnic Institute, April 2023
+- *Hypothesis testing for leakage assessment in side channel analysis*, Summer School on real-world crypto and privacy, Vodice, Croatia, June 2023;
+
+- *Lessons learned from applying deep learning to clone an ARM-Cortex M0*,  Graduate Seminars at Worcester Polytechnic Institute, April 2023;
 
 - *Return trip: From side-channel information to assembly code, Lessons learned from applying AI techniques, AICrypt*, 2nd Workshop on Artificial Intelligence and Cryptography,Trondheim, Norway May 2022; 
 
@@ -29,7 +31,7 @@ My main research interest is hardware security, emphasizing the advancement of t
 
 I am or was member of the program committees of the following conferences, workshops, and schools:
 
-- **2024** [CHES](https://ches.iacr.org/2024)
+- **2024** [CHES](https://ches.iacr.org/2024), [DATE](https://www.dac.com/security), [NWO.ICTOPEN](https://www.ictopen.nl/) (program co-chair)
 
 - **2023** [ASIACCS](https://asiaccs2023.org/); [ESORICS](https://esorics2023.org/); [FDTC](https://fdtc.deib.polimi.it/FDTC23/), [CARDIS](http://cardis.org/archive.html), [HASP](https://www.haspworkshop.org/2023/index.html), [AIHWS](https://aihws2023.aisylab.com), [ASHES](http://ashesworkshop.org)
 
