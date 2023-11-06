@@ -46,11 +46,13 @@ The list of tools is ordered according to the design abstraction level.
 |[NCSIM](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.113.638&rep=rep1&type=pdf)|2007|gate|[SCARD](https://cordis.europa.eu/project/id/507270)|Detect|
 |[CASCADE](https://www.esat.kuleuven.be/cosic/publications/article-3204.pdf), [**repo**](https://github.com/dsijacic/CASCADE)| 2020   |  gate |ASIC(custom)|Detect|
 | [Patch](https://link.springer.com/article/10.1007/s11227-021-03927-w) | 2021 | gate     | AES                               | Mitigate |
-|[PARAM](https://arxiv.org/abs/1911.08813)     | 2020    | gate         |RISC-V(ShaktiC)             | Verify     |
+|[PARAM](https://arxiv.org/abs/1911.08813), [**repo**](https://github.com/avlakshmy/power-side-channel-analysis/tree/master)     | 2020    | gate         |RISC-V(ShaktiC)             | Verify     |
 |[ACA](https://eprint.iacr.org/2020/1192)       | 2020    | gate         |RISC-V(LEON3)               | Detect|
 |[ACA++](https://arxiv.org/pdf/2204.11972.pdf)       | 2022    | gate         |tba               | tba|
+|[FORTIFY](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9712551)       | 2023    | gate         |tba               | tba|
 |[SCRIPT](https://dl.acm.org/doi/10.1145/3383445)    | 2020    | gate         |[AES-GF](http://www.aoki.ecei.tohoku.ac.jp/crypto/web/cores.html), [AES_LUT](http://satoh.cs.uec.ac.jp/SAKURA/hardware/SAKURA-G.html)| Verify       |
 | [COCO](https://pure.tugraz.at/ws/portalfiles/portal/30823144/main.pdf) |2021|gate|RISC-V ([IBEX](https://github.com/lowRISC/ibex))|Verify|
 |[COCOALMA](https://graz.pure.elsevier.com/en/publications/cocoalma-a-versatile-masking-verifier), [**repo**](https://github.com/IAIK/coco-alma)| 2021 | Tab |Tab|Tab|
 |[KARNA](https://ieeexplore.ieee.org/document/8942173)   | 2019 | layout   |AES , SIMON                | Mitigate |
+| |  |  | |  |
 
