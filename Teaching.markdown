@@ -7,14 +7,14 @@ permalink: /teaching/
  **Courses**
 
 - Bachelor Courses
+  - Data Analysis, NWI-IPC034, (Autumn 2022, 2023)
   - Matrix Calculation, NWI-IPC017, (Winter 2020, 2021, 2022)
-  - Data Analysis, NWI-IPC034, (Autumn 2022)
 - Master Courses
-  - Selected topics on hardware for security, NWI-IMC065, (Winter 2021, 2022)
+  - Selected topics on hardware for security, NWI-IMC065, (Winter 2021, 2022, 2023)
     - Lecture 1: Introduction to embedded security ([Slides](https://github.com/ileanabuhan/talks_slides/blob/main/lectures/Lecture_1_handout.pdf)).
     - Lecture 2: Embeddeds security continued ([Slides](https://github.com/ileanabuhan/talks_slides/blob/main/lectures/Lecture_2_handout.pdf)).
     - Lecture 5: Random number generators ([Slides](https://github.com/ileanabuhan/talks_slides/blob/main/lectures/Lecture_5_handout.pdf)).
-  - Physical attacks on secure systems, NWI-IMC068, (Spring 2022)
+  - Physical attacks on secure systems, NWI-IMC068, (Spring 2022,2023)
 
 **PhD students**: 
 

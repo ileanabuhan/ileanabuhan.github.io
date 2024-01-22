@@ -6,7 +6,8 @@ permalink: /Publications/
 
 **2023**
 
-- Asmita Adhikary, Ileana Buhan *“**SoK: Assisted Fault Simulation - Existing Challenges and Opportunities Offered by AI**”*, AIHWS (to appear)  [Link to paper](https://eprint.iacr.org/2022/1675);
+- Omid Bazangani, Alexandre Iooss, Ileana Buhan and Lejla Batina, *ABBY: Automating the creation of fine-grained leakage models*, ASIACCS (to appear) [Link to paper](https://eprint.iacr.org/2021/1569)
+- Asmita Adhikary, Ileana Buhan *“**SoK: Assisted Fault Simulation - Existing Challenges and Opportunities Offered by AI**”*, AIHWS  [Link to paper](https://eprint.iacr.org/2022/1675);
 
 **2022**
 
