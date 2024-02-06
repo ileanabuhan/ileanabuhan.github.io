@@ -28,14 +28,15 @@ If you like embedded systems and are looking for a project which mixes hands-on 
 
 **In progress**
 
-- **Master thesis**: Bas van der Zandt @RU; Huijing Fan@Brightsight;  Lizzy Groetjen;  Shravan Sukumar; 
-- **Research Internship**:  Anushka Jain; Bart Hoffman; 
-- **Batchelor thesis**, Rick G.A. Schouten;  Daan Weessies; Robin Put; 
+- **Master thesis**: Bas van der Zandt @RU;  Lizzy Groetjen;  Shravan Sukumar; 
+- **Research Internship**:   Bart Hoffman; 
+- **Batchelor thesis**, Rick G.A. Schouten;  Daan Weessies;  
 
 **Completed**
 
 - **Master thesis**: 
 
+  - *Supervised Contrastive Learning Based Side-channel attack on AES*, Huijing Fan @Brighsight (February 2024)
   - *Effectiveness of micro-benchmarks in identifying exploitable leakage of a cryptographic primitive*, Ischa Stork @Riscure (December 2022) 
   - *Power-based Side-Channel Instruction-level Disassembler*, Jurian van Geest, (July 2022); 
   - *Examining a Leakage Identification Proposal for a Hardened Microprocessor*,  Niels van Drueten ( February 2022).
@@ -62,6 +63,7 @@ If you like embedded systems and are looking for a project which mixes hands-on 
 
 - **Batchelor thesis**: 
 
+  - *Efficient elastic alignment*, Robin Put (January 2024)
   - *Extracting firmware from flash memory chips*, Rick Litjens (June 2023)
   - *Exploring the Current NFC Market: Assessing Security Vulnerabilities and Potential Attacks*, Baris Atik (June 2023)
   - *Efficient, cost effective sniffing for SPI and I2C*,  Stefan van Ieperen (August 2022);
