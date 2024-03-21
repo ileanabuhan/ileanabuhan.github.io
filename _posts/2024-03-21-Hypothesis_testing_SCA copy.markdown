@@ -8,11 +8,11 @@ authored: Ileana Buhan
 
 As a guest lecturer for the [CYBERUS master program]( https://master-cyberus.eu/), I created four two-hour lectures on fundamental topics of physical attacks. The figure below is a short overview of the contents. 
 
-![NHST]({{site.url}}/assets/img//cyberus/overview.png){:class="img-responsive"} 
+![overview]({{site.url}}/assets/img//cyberus/overview.png){:class="img-responsive"} 
 
  [Lecture one](https://github.com/ileanabuhan/talks_slides/blob/main/Cyberus/C1.%20Intro%20to%20physical%20attacks_handouts.pdf) is a general introduction to physical attacks, where we discuss why side-channel and fault attacks can be so devastating,  the threat model, and we conclude with a deep dive into the certification world.  In [lecture two](https://github.com/ileanabuhan/talks_slides/blob/main/Cyberus/C2.%20Side%20channel%20attacks_handouts.pdf), we discuss simple and differential power analyses, briefly touching on countermeasures. [Lecture three](https://github.com/ileanabuhan/talks_slides/blob/main/Cyberus/C3.%20DPA%20and%20leakage%20detection_handouts.pdf) is dedicated to DPA success metrics and leakage assessment. We conclude with [lecture four,](https://github.com/ileanabuhan/talks_slides/blob/main/Cyberus/C4.%20Introduction%20to%20Fault%20attacks_handouts.pdf) which is dedicated to fault injection, specifically choosing the target of the attacks, tools, and target characterization, and at the end, we discuss the excellent presentation of Joe Grand's hacking of the [Trezor hardware wallet](https://www.youtube.com/watch?v=dT9y-KQbqi4).  
 
 I leave you with a beautiful picture of the wild beaches of Lorient, France. 
 
-![NHST]({{site.url}}/assets/img//cyberus/Lorient.png){:class="img-responsive"} 
+![Lorient]({{site.url}}/assets/img//cyberus/Lorient.png){:class="img-responsive"} 
 
