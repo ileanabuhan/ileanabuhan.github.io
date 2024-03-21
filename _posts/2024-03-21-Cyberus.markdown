@@ -14,5 +14,5 @@ As a guest lecturer for the [CYBERUS master program]( https://master-cyberus.eu/
 
 I leave you with a beautiful picture of the wild beaches of Lorient, France. 
 
-![Lorient]({{site.url}}/assets/img//cyberus/Lorient.jpg){:class="img-responsive"} 
+![Lorient]({{site.url}}/assets/img//cyberus/lorient.jpg){:class="img-responsive"} 
 
