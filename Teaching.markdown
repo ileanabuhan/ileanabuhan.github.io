@@ -27,8 +27,8 @@ If you like embedded systems and are looking for a project that mixes hands-on w
 
 - **Master thesis**: 
 
-  - *Curiouser and* curiouser Cortex-M4! Down the rabbit hole of microcontroller behavior to explore known and find new instruction-level optimization techniques for the Cortex-M4*, Senna van Hoek (September 2024)
-  - **RE-ARMament Reverse engineering Cortex-m4 behavior using side-channel analysis*, Bart Hoffman (September 2024)
+  - *Curiouser and ~~curiouser~~  Cortex-M4! Down the rabbit hole of microcontroller behavior to explore known and find new instruction-level optimization techniques for the Cortex-M4*, Senna van Hoek (September 2024)
+  - *RE-ARMament Reverse engineering Cortex-m4 behavior using side-channel analysis*, Bart Hoffman (September 2024)
   - *The more, the merrier? A step-by-step inter-device analysis for transfer learning side-channel attacks*, Lizzy Groetjes (June 2024)
   -  *A walk down memory lane: Exploring timing behavior of Loads and Stores on ARM Cortex-M3 microcontrollers*, Bas van der Zandt (April 2024)
   - *Supervised Contrastive Learning Based Side-channel attack on AES*, Huijing Fan @Brighsight (February 2024)
