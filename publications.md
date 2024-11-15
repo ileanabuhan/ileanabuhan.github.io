@@ -8,8 +8,9 @@ permalink: /Publications/
 
 **(New) Unpublished**
 
-1. Ischa Stork, Vipul Arora, Łukasz Chmielewski, Ileana Buhan, *Unveiling the Secrets of Microarchitecture: Towards Explainable Side-Channel Leakage ([Eprint link](https://eprint.iacr.org/2024/1792));
-2. Konstantina Miteloudi, Asmita Adhikary, Niels van Druten, Lejla Batina, Ileana Buhan, *Plan your defense: A comparative analysis of leakage detection methods on RISC-V cores ([Eprint link](https://eprint.iacr.org/2024/423));
+1. Asmita Adhikary, Abraham J. Basurto Becerra, Lejla Batina, Ileana Buhan, Durba Chatterjee, Senna van Hoek, Eloi Sanfelix Gonzalez, *ARCHER: Architecture-Level Simulator for Side-Channel Analysis in RISC-V Processors* ([Eprint link](https://eprint.iacr.org/2024/1866));
+2. Ischa Stork, Vipul Arora, Łukasz Chmielewski, Ileana Buhan, *Unveiling the Secrets of Microarchitecture: Towards Explainable Side-Channel Leakage ([Eprint link](https://eprint.iacr.org/2024/1792));
+3. Konstantina Miteloudi, Asmita Adhikary, Niels van Druten, Lejla Batina, Ileana Buhan, *Plan your defense: A comparative analysis of leakage detection methods on RISC-V cores ([Eprint link](https://eprint.iacr.org/2024/423));
 
 **Published**
 
@@ -19,12 +20,11 @@ permalink: /Publications/
 - Asmita Adhikary, Ileana Buhan *SoK: Assisted Fault Simulation - Existing Challenges and Opportunities Offered by AI*, AIHWS  [Link to paper](https://eprint.iacr.org/2022/1675);
 
 * Servio Paguada, Lejla Batina, Ileana Buhan and Igor Armendariz, *“Being Patient and Persistent: Optimizing An Early Stopping Strategy for Deep Learning in Profiled Attacks”*, Transactions on Computers, Special Issue on Hardware Security (regular paper),  [Link to paper](https://arxiv.org/abs/2111.14416);
-* Servio Paguada, Lejla Batina, Ileana Buhan and Igor Armendariz, *“Playing with blocks: Toward re-usable deep learning models for side-channel profiled attacks"*,  IEEE Trans. Inf Forensics & Security 17,  2835-2847 (2022) [Link to paper](https://arxiv.org/abs/2203.08448);
+* Servio Paguada, Lejla Batina, Ileana Buhan, and Igor Armendariz, *“Playing with blocks: Toward re-usable deep learning models for side-channel profiled attacks"*,  IEEE Trans. Inf Forensics & Security 17,  2835-2847 (2022) [Link to paper](https://arxiv.org/abs/2203.08448);
 * Lejla Batina, Thomas Bäck, Ileana Buhan, Stjepan Picek, *Security and Artificial Intelligence - A Crossdisciplinary Approach* LNCS 13049, Springer 2022 \[[contents\]](https://dblp.org/db/series/lncs/lncs13049.html)
 * Jurian van Geest, Ileana Buhan, *A side-channel based disassembler for the ARM-Cortex M0*, AIHWS, LNCS 13285, Springer 2022, [Link to paper](https://eprint.iacr.org/2022/523); 
-* Ileana Buhan, Lejla Batina, Yuval Yarom and Patrick Schaumont, *SoK: Design Tools for Side-Channel-Aware Implementations*, ASIACCS: 756-770, [Link to paper](https://eprint.iacr.org/2021/497); 
+* Ileana Buhan, Lejla Batina, Yuval Yarom, and Patrick Schaumont, *SoK: Design Tools for Side-Channel-Aware Implementations*, ASIACCS: 756-770, [Link to paper](https://eprint.iacr.org/2021/497); 
 
-- Omid Bazangani, Alexandre Iooss, Ileana Buhan and Lejla Batina, *ABBY: Automating the creation of fine-grained leakage models*, [IACR Cryptology ePrint Archive 2021/1569 (2021)](https://eprint.iacr.org/2021/1569)
 - Vipul Arora, Ileana Buhan, Guilherme Perin and Stjepan Picek, *A Tale of Two Boards: On the Influence of Microarchitecture on Side-Channel Leakage*, [CARDIS 2021](https://eprint.iacr.org/2021/905);
 - Guilherme Perin, Ileana Buhan and Stjepan Picek, *Learning when to stop: a mutual information approach to fight overfitting in profiled side-channel_analysis*, [COSADE 2021](https://eprint.iacr.org/2020/058);
 
@@ -33,7 +33,7 @@ permalink: /Publications/
 - Yongbo Hu, Yeyang Zheng, Pengwei Feng, Lirui Liu, Chen Zhang, Aron Gohr, Sven Jacob, Werner Schindler, Ileana Buhan, Karim Tobich: _Machine learning and side channel analysis in a CTF competition._ [IACR Cryptology ePrint Archive 2019: 860 (2019)](https://eprint.iacr.org/2019/860)
 
 - Rauf Mahmudlu, Valentina Banciu, Lejla Batina and Ileana Buhan:
-_LDA-Based Clustering as a Side-Channel Distinguisher_. RFIDSec 2016: 62-75, (2016) 
+  _LDA-Based Clustering as a Side-Channel Distinguisher_. RFIDSec 2016: 62-75, (2016) 
 
 - Ileana Buhan, Bas Boom, Jeroen Doumen, Pieter Hartel and Raymond Veldhuis, _Secure Ad-hoc Pairing with Biometrics: SAfE_, International Journal of Security and Networks Special (IJSN) Special Issue on Secure Spontaneous Interaction; Vol 4(1-2):2009, Editors: R. Mayrhofer, K. Nyberg, and T. Kindberg;
 
@@ -46,8 +46,8 @@ _LDA-Based Clustering as a Side-Channel Distinguisher_. RFIDSec 2016: 62-75, (20
 - Ileana Buhan, _Cryptographic keys from noisy data, theory, and applications_, PhD thesis, University of Twente, CTIT Ph.D.-thesis series No. 08-129 ISBN 987-9-03652-738-5; October 2008;
 
 - Ileana Buhan, Jeroen Doumen, Pieter Hartel, Qiang Tang and Raymond Veldhuis,
-_Embedding Renewable Cryptographic Keys into Continuous Noisy Data_,
-International Journal of Information Security; ICICS 2008, Lecture Notes in Computer Science, vol 5308, Springer, Berlin, Editors: L. Chen; G. Wang; M. Ryan;
+  _Embedding Renewable Cryptographic Keys into Continuous Noisy Data_,
+  International Journal of Information Security; ICICS 2008, Lecture Notes in Computer Science, vol 5308, Springer, Berlin, Editors: L. Chen; G. Wang; M. Ryan;
 
 - Buhan, I.R. µand Doumen, J.M. and Hartel, P.H. _Controlling Leakage of Biometric Information using Dithering_. In: 16th European Signal Processing Conference, 25-29 Aug 2008, Lausanne, Switzerland. 1569105382. EUSIPCO. EURASIP, European Association for Signal, Speech and Image Processing;
 
