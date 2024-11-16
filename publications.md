@@ -9,8 +9,8 @@ permalink: /Publications/
 **(New) Unpublished**
 
 1. Asmita Adhikary, Abraham J. Basurto Becerra, Lejla Batina, Ileana Buhan, Durba Chatterjee, Senna van Hoek, Eloi Sanfelix Gonzalez, *ARCHER: Architecture-Level Simulator for Side-Channel Analysis in RISC-V Processors* ([Eprint link](https://eprint.iacr.org/2024/1866));
-2. Ischa Stork, Vipul Arora, Łukasz Chmielewski, Ileana Buhan, *Unveiling the Secrets of Microarchitecture: Towards Explainable Side-Channel Leakage ([Eprint link](https://eprint.iacr.org/2024/1792));
-3. Konstantina Miteloudi, Asmita Adhikary, Niels van Druten, Lejla Batina, Ileana Buhan, *Plan your defense: A comparative analysis of leakage detection methods on RISC-V cores ([Eprint link](https://eprint.iacr.org/2024/423));
+2. Ischa Stork, Vipul Arora, Łukasz Chmielewski, Ileana Buhan, *Unveiling the Secrets of Microarchitecture: Towards Explainable Side-Channel Leakage* ([Eprint link](https://eprint.iacr.org/2024/1792));
+3. Konstantina Miteloudi, Asmita Adhikary, Niels van Druten, Lejla Batina, Ileana Buhan, *Plan your defense: A comparative analysis of leakage detection methods on RISC-V cores* ([Eprint link](https://eprint.iacr.org/2024/423));
 
 **Published**
 
