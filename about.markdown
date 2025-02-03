@@ -31,7 +31,9 @@ My main research interest is hardware security, emphasizing the advancement of t
 
 I am or was member of the program committees of the following conferences, workshops, and schools:
 
-- **2024** [CHES](https://ches.iacr.org/2024), [DATE](https://www.dac.com/security), [NWO.ICTOPEN](https://www.ictopen.nl/) (program co-chair)
+- **2025** [CHES](https://ches.iacr.org/2025), [DATE](https://www.date-conference.com)
+
+- **2024** [CHES](https://ches.iacr.org/2024), [DATE](https://www.date-conference.com/), [NWO.ICTOPEN](https://www.ictopen.nl/) (program co-chair)
 
 - **2023** [ASIACCS](https://asiaccs2023.org/); [ESORICS](https://esorics2023.org/); [FDTC](https://fdtc.deib.polimi.it/FDTC23/), [CARDIS](http://cardis.org/archive.html), [HASP](https://www.haspworkshop.org/2023/index.html), [AIHWS](https://aihws2023.aisylab.com), [ASHES](http://ashesworkshop.org)
 

@@ -11,7 +11,8 @@ permalink: /teaching/
   - Matrix Calculation, NWI-IPC017, (Winter 2020, 2021, 2022)
 - Master Courses
   - Hardware Security, NWI-IMC065 (Winter 2021, 2022, 2023,2024 -updated)
-  - Physical attacks on secure systems, NWI-IMC068, (Spring 2022,2023)
+  - Physical attacks on secure systems, NWI-IMC068, (Spring 2022,2023, 2024)
+  - Hardware Security -invited lectures Cyberus Master Program (2022,2023,2024) [https://master-cyberus.eu/]
 
 **PhD students**: 
 
@@ -41,7 +42,11 @@ If you like embedded systems and are looking for a project that mixes hands-on w
   
 - **Research Internship**: 
 
-  * *N-days vulnerabilities*,Bart Hoffman (April 2024)
+  * *Getting real with our imaginary friends*, Dimitrios Grafanakis, (December 2024)
+
+  * *Evaluation presentation of a workshop in side-channel analysis with AI tools*, Lizzy Grootjen, (November 2024)
+
+  * *N-days vulnerabilities*,Bart Hoffman, (April 2024)
 
   * *Visualizing the memory instruction patterns in ARMv7-M firmware using ACID*, Senna van Hoek, (July 2023)
 
@@ -60,11 +65,13 @@ If you like embedded systems and are looking for a project that mixes hands-on w
 
 - **Batchelor thesis**: 
 
-  - *Efficient elastic alignment*, Robin Put (January 2024)[Link to thesis](https://www.cs.ru.nl/bachelors-theses/2024/Robin_Put___1031986___Efficient_Elastic_Alignment_in_CUDA.pdf);
+  - *DisARMing Side Channels*, Emre Akdag, (January 2025)
+  - *Automation of Data Flow Analysis of Cryptographic Implementations*, Catalin Sabau, (January 2025)
+  - *Efficient elastic alignment*, Robin Put (January 2024) [Link to thesis](https://www.cs.ru.nl/bachelors-theses/2024/Robin_Put___1031986___Efficient_Elastic_Alignment_in_CUDA.pdf);
   - *Extracting firmware from flash memory chips*, Rick Litjens (June 2023) [Link to thesis](https://www.cs.ru.nl/bachelors-theses/2023/Rick_Litjens___1042847___Extracting_firmware_from_flash_memory_chips.pdf);
   - *Exploring the Current NFC Market: Assessing Security Vulnerabilities and Potential Attacks*, Baris Atik (June 2023) [Link to thesis](https://www.cs.ru.nl/bachelors-theses/2023/Bar%C4%B1s_Cagr%C4%B1_Atik___1039097___NFC_-_Exploring_the_Current_NFC_Market_-_Assessing_Security_Vulnerabilities_and_Potential_Attacks.pdf);
   - *Efficient, cost-effective sniffing for SPI and I2C*,  Stefan van Ieperen (August 2022) [Link to thesis](https://www.cs.ru.nl/bachelors-theses/2022/Stefan_van_Ieperen___1045156___Sniffing_communications_between_an_Arduino_and_its_peripheral_sensor.pdf);
-
+  
   * *Security analysis of a router*, Ciske Harsema ( January 2022) [Link to thesis.](https://www.cs.ru.nl/bachelors-theses/)
 
 
