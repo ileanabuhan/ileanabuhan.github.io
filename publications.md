@@ -10,15 +10,14 @@ permalink: /Publications/
 
 1. Asmita Adhikary, Abraham J. Basurto Becerra, Lejla Batina, Ileana Buhan, Durba Chatterjee, Senna van Hoek, Eloi Sanfelix Gonzalez, *ARCHER: Architecture-Level Simulator for Side-Channel Analysis in RISC-V Processors* ([Eprint link](https://eprint.iacr.org/2024/1866));
 2. Ischa Stork, Vipul Arora, Łukasz Chmielewski, Ileana Buhan, *Unveiling the Secrets of Microarchitecture: Towards Explainable Side-Channel Leakage* ([Eprint link](https://eprint.iacr.org/2024/1792));
-3. Konstantina Miteloudi, Asmita Adhikary, Niels van Druten, Lejla Batina, Ileana Buhan, *Plan your defense: A comparative analysis of leakage detection methods on RISC-V cores* ([Eprint link](https://eprint.iacr.org/2024/423));
+
 
 **Published**
-
+- Konstantina Miteloudi, Asmita Adhikary, Niels van Druten, Lejla Batina, Ileana Buhan, *Plan your defense: A comparative analysis of leakage detection methods on RISC-V cores*, SAMOS 2024, 139-151 ([Eprint link](https://eprint.iacr.org/2024/423));
 - Asmita Adhikary,Abraham Basurto, Lejla Batina, Ileana Buhan, Joan Daemen, Silvia Mella, Nele Mentens, Stjepan Picek,Durga Lakshmi Ramachandran, Abolfazl Sajadi, Todor Stefanov, Dennis Vermoen, Nusa Zidaric,
   *PROACT - Physical Attack Resistance of Cryptographic Algorithms and Circuits with Reduced Time to Market.* [ARC 2024](https://dblp.org/db/conf/arc/arc2024.html#AdhikaryBBBDMMPRSSVZ24): 255-266
 - Omid Bazangani, Alexandre Iooss, Ileana Buhan and Lejla Batina, *ABBY: Automating the creation of fine-grained leakage models*, ASIACCS, Singapore, July 1-5, 2024 [Link to paper](https://eprint.iacr.org/2021/1569);
 - Asmita Adhikary, Ileana Buhan *SoK: Assisted Fault Simulation - Existing Challenges and Opportunities Offered by AI*, AIHWS  [Link to paper](https://eprint.iacr.org/2022/1675);
-
 * Servio Paguada, Lejla Batina, Ileana Buhan and Igor Armendariz, *“Being Patient and Persistent: Optimizing An Early Stopping Strategy for Deep Learning in Profiled Attacks”*, Transactions on Computers, Special Issue on Hardware Security (regular paper),  [Link to paper](https://arxiv.org/abs/2111.14416);
 * Servio Paguada, Lejla Batina, Ileana Buhan, and Igor Armendariz, *“Playing with blocks: Toward re-usable deep learning models for side-channel profiled attacks"*,  IEEE Trans. Inf Forensics & Security 17,  2835-2847 (2022) [Link to paper](https://arxiv.org/abs/2203.08448);
 * Lejla Batina, Thomas Bäck, Ileana Buhan, Stjepan Picek, *Security and Artificial Intelligence - A Crossdisciplinary Approach* LNCS 13049, Springer 2022 \[[contents\]](https://dblp.org/db/series/lncs/lncs13049.html)
