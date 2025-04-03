@@ -14,7 +14,7 @@ My main research interest is hardware security, and I focus on advancing tools t
 
 **Invited talks/tutorials/keynotes**:
 
-- *Detecting and Mitigating Side-Channel Leaks in Software Implementations: Challenges, Automation, and Tools*, Keynote, CASCADE, Saint-Ettienne, April 2025; 
+- *Detecting and Mitigating Side-Channel Leaks in Software Implementations: Challenges, Automation, and Tools*, Keynote, CASCADE, Saint-Etienne, April 2025; 
 
 - *Introduction to Hardware Hacking*, workshop at [Hack{her}Quest](https://hackherquest.github.io/pages/speakers.html), Nijmegen, February 2025; 
 
