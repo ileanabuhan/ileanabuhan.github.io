@@ -6,21 +6,29 @@ permalink: /about/
 
 ![short cv]({{site.url}}/assets/img/Ileana.jpeg){:height="20%" width="20%"}
 
-I am assistant professor at Radboud University Nijmegen in the Digital Security Group, and part of the [CESCA Lab](https://cescalab.cs.ru.nl/). Between 2011-2020 I worked at Riscure, first as a security evaluation manager responsible for executing high-assurance security evaluation projects and later as the product manager for the training unit. Between 2008-2010 I was a senior scientist at Philips, Eindhoven, The Netherlands. I finished my Ph.D., entitled Cryptography with noisy data, in 2008 under the supervision of prof. dr. Pieter Hartel and dr. Jeroen Doumen.  For my Ph.D. work and my contribution to the advance of biometric research, I was awarded the 2008 EBF European Biometrics Research Industry Award by European Biometric Forum.
+I am an assistant professor at Radboud University Nijmegen in the Digital Security Group and part of the [CESCA Lab](https://cescalab.cs.ru.nl/). Between 2011 and 2020, I worked at Riscure, first as a security evaluation manager responsible for executing high-assurance security evaluation projects and later as the product manager for the training unit. Between 2008-2010 I was a senior scientist at Philips, Eindhoven, The Netherlands. I finished my Ph.D., entitled Cryptography with noisy data, in 2008 under the supervision of prof. dr. Pieter Hartel and dr. Jeroen Doumen.  For my Ph.D. work and contribution to the advance of biometric research, I was awarded the 2008 EBF European Biometrics Research Industry Award by European Biometric Forum.
 
-My main research interest is hardware security, emphasizing the advancement of tools to create secure hardware; below is a short overview of my professional career. 
+My main research interest is hardware security, and I focus on advancing tools to create secure hardware. Below is a short overview of my professional career. 
 
  ![short cv]({{site.url}}/assets/img/cariera.png){:class="img-responsive"}
 
-**Invited talks/tutorials**:
+**Invited talks/tutorials/keynotes**:
 
-- *Current approaches in the formal verification of cryptograpfic algorithm implementations*, Formosa retreat, Eindhoven, July 2023;
+- *Detecting and Mitigating Side-Channel Leaks in Software Implementations: Challenges, Automation, and Tools*, Keynote, CASCADE, Saint-Ettienne, April 2025; 
 
-- *Hypothesis testing for leakage assessment in side channel analysis*, Summer School on real-world crypto and privacy, Vodice, Croatia, June 2023;
+- *Introduction to Hardware Hacking*, workshop at [Hack{her}Quest](https://hackherquest.github.io/pages/speakers.html), Nijmegen, February 2025; 
+
+- *I know what your compiler did optimization effects on power side-channel leakage for RISCV*, SemSecu, Rennes, January  2025;
+
+- *Architecture Level Simulator for Assisted Root Cause Analysis of Side-Channel Leaks*, Mondragon, Ikerlan, Spain, June 2024;
+
+- *Current approaches in the formal verification of cryptographic algorithm implementations*, Formosa retreat, Eindhoven, July 2023;
+
+- *Hypothesis testing for leakage assessment in side-channel analysis*, Summer School on real-world crypto and privacy, Vodice, Croatia, June 2023;
 
 - *Lessons learned from applying deep learning to clone an ARM-Cortex M0*,  Graduate Seminars at Worcester Polytechnic Institute, April 2023;
 
-- *Return trip: From side-channel information to assembly code, Lessons learned from applying AI techniques, AICrypt*, 2nd Workshop on Artificial Intelligence and Cryptography,Trondheim, Norway May 2022; 
+- *Return trip: From side-channel information to assembly code, Lessons learned from applying AI techniques, AICrypt*, 2nd Workshop on Artificial Intelligence and Cryptography, Trondheim, Norway May 2022; 
 
 - *Automation against physical side-channel attacks, ICCSS International Solid-State Circuits Conference*  San Francisco, USA, February 2022; 
 - *Dream or reality? Automated prediction of cryptographic vulnerabilities during hardware design*, 35th International Conference on VLSI, Design and 21st International Conference on Embedded Systems (VLSID), India, March 2022; 
@@ -29,7 +37,7 @@ My main research interest is hardware security, emphasizing the advancement of t
 
 **Conferences, Workshops, and Schools**
 
-I am or was member of the program committees of the following conferences, workshops, and schools:
+I am or was a member of the program committees of the following conferences, workshops, and schools:
 
 - **2025** [CHES](https://ches.iacr.org/2025), [DATE](https://www.date-conference.com)
 

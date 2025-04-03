@@ -7,8 +7,10 @@ permalink: /teaching/
  **Courses**
 
 - Bachelor Courses
+  - Operating Systems Security (Winter 2025)
   - Data Analysis, NWI-IPC034, (Autumn 2022, 2023,2024)
   - Matrix Calculation, NWI-IPC017, (Winter 2020, 2021, 2022)
+  
 - Master Courses
   - Hardware Security, NWI-IMC065 (Winter 2021, 2022, 2023,2024 -updated)
   - Physical attacks on secure systems, NWI-IMC068, (Spring 2022,2023, 2024)
@@ -16,7 +18,7 @@ permalink: /teaching/
 
 **PhD students**: 
 
-- Co-promotor Servio Luis Paguada Isaula,  Radboud University (defense July 2023)
+- Co-promotor Servio Luis Paguada Isaula,  Radboud University (defended July 2023)
 - Co-promotor Asmita Adhikary,  Radboud University (March 2022)
 - Co-promotor Giacomo Petrucci,  Radboud University (May 2024)
 
@@ -28,6 +30,7 @@ If you like embedded systems and are looking for a project that mixes hands-on w
 
 - **Master thesis**: 
 
+  - *ARMCHAIR A cryptographic Simulation and Analysis Tool*, Paolo Scatolini (March 2025)
   - *Curiouser and ~~curiouser~~  Cortex-M4! Down the rabbit hole of microcontroller behavior to explore known and find new instruction-level optimization techniques for the Cortex-M4*, Senna van Hoek (September 2024)
   - *RE-ARMament Reverse engineering Cortex-m4 behavior using side-channel analysis*, Bart Hoffman (September 2024)
   - *The more, the merrier? A step-by-step inter-device analysis for transfer learning side-channel attacks*, Lizzy Groetjes (June 2024)
