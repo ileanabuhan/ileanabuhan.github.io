@@ -24,13 +24,15 @@ permalink: /teaching/
 
 **Research projects with students**
 
-If you like embedded systems and are looking for a project that mixes hands-on work with just the right amount of theory, contact me. Depending on your skills and interests, we will define a project together. For an updated list of internship topics, check out https://cescalab.cs.ru.nl/projects/; 
+If you enjoy embedded systems and are seeking a project that combines hands-on work with the right balance of theory, please contact me. Depending on your skills and interests, we will define a project together. For an updated list of internship topics, check out https://cescalab.cs.ru.nl/projects/; 
 
 **Completed**
 
 - **Master thesis**: 
 
-  - *ARMCHAIR A cryptographic Simulation and Analysis Tool*, Paolo Scatolini (March 2025)
+  - *Assisted Dynamic Analysis of RISC-V Binaries*, Shravan Sukumar, (June 2025)
+  - *Can KEV and EPSS enhance vulnerability prioritization?*, Abhishek Bandivadekar (June 2025)
+  - *ARMCHAIR A Cryptographic Simulation and Analysis Tool*, Paolo Scatolini (March 2025)
   - *Curiouser and ~~curiouser~~  Cortex-M4! Down the rabbit hole of microcontroller behavior to explore known and find new instruction-level optimization techniques for the Cortex-M4*, Senna van Hoek (September 2024)
   - *RE-ARMament Reverse engineering Cortex-m4 behavior using side-channel analysis*, Bart Hoffman (September 2024)
   - *The more, the merrier? A step-by-step inter-device analysis for transfer learning side-channel attacks*, Lizzy Groetjes (June 2024)
@@ -41,9 +43,11 @@ If you like embedded systems and are looking for a project that mixes hands-on w
   - *Examining a Leakage Identification Proposal for a Hardened Microprocessor*,  Niels van Drueten ( February 2022).
   - *Calculating the vulnerability remediation order based on open source intelligence* @Northwave, Richard van Ginkel (October 2021), [Link to thesis](https://www.ru.nl/publish/pages/769526/richard_van_ginkel.pdf).
   - *Data Augmentation Techniques using Generative Adversarial Neural Networks on Side Channel Analysis* @Riscure, Achilleas Vlogiaris (co-supervisor with Stjepan Picek), (April 2021), [Link to thesis](https://repository.tudelft.nl/islandora/object/uuid%3Ad2d00b11-cea1-466e-9b17-2b244e33be25).
-  - *Side­ channel leaks from target devices* @Riscure, (co-supervisor with Stjepan Picek), Vipul Arora (defense December 2020).  [Link to thesis](https://repository.tudelft.nl/islandora/object/uuid:5566f6d5-2cee-4f5c-b047-7c8e36e8306f?collection=education). [Link to paper](https://eprint.iacr.org/2021/905)
+  - *Side-channel leaks from target devices, @Riscure (co-supervisor with Stjepan Picek),fense, Vipul Arora (de December 2020).  [Link to thesis](https://repository.tudelft.nl/islandora/object/uuid:5566f6d5-2cee-4f5c-b047-7c8e36e8306f?collection=education). [Link to paper](https://eprint.iacr.org/2021/905)
   
 - **Research Internship**: 
+
+  * *Design and Implementation of a Reliable and Energy-Efficient IoT Gateway for Soil Monitoring*, Rick Litjens (June 2025)
 
   * *Getting real with our imaginary friends*, Dimitrios Grafanakis, (December 2024)
 
@@ -66,8 +70,11 @@ If you like embedded systems and are looking for a project that mixes hands-on w
   * *Modeling the pipeline effect on the power signature of individual instructions*,  Jurian van Geest, (May 2021).
   * *On the influence of density estimators on Mutual Information calculation*,  Eduardo Piloneto Lima Hoefel, (May 2021), [DEAR tool](https://github.com/eduardoHoefel/dear-tool).
 
-- **Batchelor thesis**: 
+- **Bachelor's thesis**: 
 
+  -  *Side-channel resistant implementation of ASCON for RISC-V architectures*,  Daan Weessies, (June 2025)
+  - *ARMageddon: A Microarchitectural Duel Between the Cortex-M4 and M33*, Alexandru Aioanei, (June 2025)
+  - *Firmware Extraction and Analysis of the TP-Link TL-MR3020 Router*, Beau Maas, (June 2025)
   - *DisARMing Side Channels*, Emre Akdag, (January 2025)
   - *Automation of Data Flow Analysis of Cryptographic Implementations*, Catalin Sabau, (January 2025)
   - *Efficient elastic alignment*, Robin Put (January 2024) [Link to thesis](https://www.cs.ru.nl/bachelors-theses/2024/Robin_Put___1031986___Efficient_Elastic_Alignment_in_CUDA.pdf);
