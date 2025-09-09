@@ -48,26 +48,17 @@ If you enjoy embedded systems and are seeking a project that combines hands-on w
 - **Research Internship**: 
 
   * *Design and Implementation of a Reliable and Energy-Efficient IoT Gateway for Soil Monitoring*, Rick Litjens (June 2025)
-
-  * *Getting real with our imaginary friends*, Dimitrios Grafanakis, (December 2024)
-
+* *Getting real with our imaginary friends*, Dimitrios Grafanakis, (December 2024)
   * *Evaluation presentation of a workshop in side-channel analysis with AI tools*, Lizzy Grootjen, (November 2024)
-
-  * *N-days vulnerabilities*,Bart Hoffman, (April 2024)
-
+* *N-days vulnerabilities*,Bart Hoffman, (April 2024)
   * *Visualizing the memory instruction patterns in ARMv7-M firmware using ACID*, Senna van Hoek, (July 2023)
-
-  * *Extending FiSim, a Fault Attack Simulator*, Mashal Zainab ([Cyberus](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/org-details/999999999/project/101049712/program/43353764/details)), (June 2023)
-
+* *Extending FiSim, a Fault Attack Simulator*, Mashal Zainab ([Cyberus](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/org-details/999999999/project/101049712/program/43353764/details)), (June 2023)
   * *Guidelines and takeaways for setting up an Ibex Core on the Arty A7 FPGA board*, Stefan Popa (March 2023)
-
-  * *Side-Channel Attack on DES and AES Algorithms* @Brighsight,  Huijing Fan (March 2023)
-
+* *Side-Channel Attack on DES and AES Algorithms* @Brighsight,  Huijing Fan (March 2023)
   * *Threat analysis of an industrial system*  @ GAIN, Abdulkarim Abdulkadir ( June 2022). 
-
-  * *SCA Leakage Detection Framework*,  Tamas Razman, (June 2021),  [LeakageDetectionFramework](https://github.com/RazePerson/sca-leakage-detection-framework).
+* *SCA Leakage Detection Framework*,  Tamas Razman, (June 2021),  [LeakageDetectionFramework](https://github.com/RazePerson/sca-leakage-detection-framework).
   * *MagiCkafka* @COMPUMATICA, Giels Besouw, (February 2021)
-  * *Modeling the pipeline effect on the power signature of individual instructions*,  Jurian van Geest, (May 2021).
+* *Modeling the pipeline effect on the power signature of individual instructions*,  Jurian van Geest, (May 2021).
   * *On the influence of density estimators on Mutual Information calculation*,  Eduardo Piloneto Lima Hoefel, (May 2021), [DEAR tool](https://github.com/eduardoHoefel/dear-tool).
 
 - **Bachelor's thesis**: 
