@@ -18,9 +18,9 @@ permalink: /teaching/
 
 **PhD students**: 
 
-- Co-promotor Servio Luis Paguada Isaula,  Radboud University (defended July 2023)
+- Co-promotor Senna van Hoek,  Radboud University (January 2024)
 - Co-promotor Asmita Adhikary,  Radboud University (March 2022)
-- Co-promotor Giacomo Petrucci,  Radboud University (May 2024)
+- Co-promotor Servio Luis Paguada Isaula,  Radboud University (defended July 2023)
 
 **Research projects with students**
 
@@ -72,6 +72,9 @@ If you enjoy embedded systems and are seeking a project that combines hands-on w
 
 - **Bachelor's thesis**: 
 
+  -  *Fine Grained LeakageModels in a Simulated Pipeline Component for an arbitrary*
+  
+     *RISC-VMicrocontroller*, Ioana Dunare, (August 2025)
   -  *Side-channel resistant implementation of ASCON for RISC-V architectures*,  Daan Weessies, (June 2025)
   - *ARMageddon: A Microarchitectural Duel Between the Cortex-M4 and M33*, Alexandru Aioanei, (June 2025)
   - *Firmware Extraction and Analysis of the TP-Link TL-MR3020 Router*, Beau Maas, (June 2025)

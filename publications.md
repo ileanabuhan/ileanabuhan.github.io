@@ -8,11 +8,12 @@ permalink: /Publications/
 
 **New work**
 
-1. Asmita Adhikary, Abraham J. Basurto Becerra, Lejla Batina, Ileana Buhan, Durba Chatterjee, Senna van Hoek, Eloi Sanfelix Gonzalez, *ARCHER: Architecture-Level Simulator for Side-Channel Analysis in RISC-V Processors* ([Eprint link](https://eprint.iacr.org/2024/1866));
-2. Ischa Stork, Vipul Arora, Łukasz Chmielewski, Ileana Buhan, *Unveiling the Secrets of Microarchitecture: Towards Explainable Side-Channel Leakage* ([Eprint link](https://eprint.iacr.org/2024/1792));
+1. Lizzy Grotjes, Zhuoran Liu, Ileana Buhan, *MIDSCAN: Investigating the portability problem for cross-device DL-SCA*, LightSec 2025;
+2. Asmita Adhikary, Abraham J. Basurto Becerra, Lejla Batina, Ileana Buhan, Durba Chatterjee, Senna van Hoek, Eloi Sanfelix Gonzalez, *ARCHER: Architecture-Level Simulator for Side-Channel Analysis in RISC-V Processors*, LightSec 2025 ([Eprint link](https://eprint.iacr.org/2024/1866));
 
 **Published**
 
+- Ischa Stork, Vipul Arora, Łukasz Chmielewski, Ileana Buhan, *Unveiling the Secrets of Microarchitecture: Towards Explainable Side-Channel Leakage* ([Eprint link](https://eprint.iacr.org/2024/1792));
 - Konstantina Miteloudi, Asmita Adhikary, Niels van Druten, Lejla Batina, Ileana Buhan, *Plan your defense: A comparative analysis of leakage detection methods on RISC-V cores*, 139-151, SAMOS 2024, ([Link to paper](https://eprint.iacr.org/2024/423));
 - Asmita Adhikary,Abraham Basurto, Lejla Batina, Ileana Buhan, Joan Daemen, Silvia Mella, Nele Mentens, Stjepan Picek,Durga Lakshmi Ramachandran, Abolfazl Sajadi, Todor Stefanov, Dennis Vermoen, Nusa Zidaric,
   *PROACT - Physical Attack Resistance of Cryptographic Algorithms and Circuits with Reduced Time to Market*, 255-266 [ARC 2024](https://dblp.org/db/conf/arc/arc2024.html#AdhikaryBBBDMMPRSSVZ24);
