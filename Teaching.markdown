@@ -12,12 +12,13 @@ permalink: /teaching/
   - Matrix Calculation, NWI-IPC017, (Winter 2020, 2021, 2022)
   
 - Master Courses
-  - Hardware Security, NWI-IMC065 (Winter 2021, 2022, 2023,2024 -updated)
-  - Physical attacks on secure systems, NWI-IMC068, (Spring 2022,2023, 2024)
-  - Hardware Security -invited lectures Cyberus Master Program (2022,2023,2024) [https://master-cyberus.eu/]
+  - Hardware Security, NWI-IMC065 (Winter 2021, 2022, 2023,2024 -updated,2025)
+  - Physical attacks on secure systems, NWI-IMC068 (Spring 2022,2023, 2024,2025)
+  - Hardware Security -invited lectures Cyberus Master Program (2022,2023,2024,2025) [https://master-cyberus.eu/]
 
-**PhD students**: 
+  **PhD students**: 
 
+- Co-promotor Gijs Burghoorn,  Radboud University (December 2025)
 - Co-promotor Senna van Hoek,  Radboud University (January 2024)
 - Co-promotor Asmita Adhikary,  Radboud University (March 2022)
 - Co-promotor Servio Luis Paguada Isaula,  Radboud University (defended July 2023)
@@ -30,42 +31,43 @@ If you enjoy embedded systems and are seeking a project that combines hands-on w
 
 - **Master thesis**: 
 
+  - *Towards Instruction-Level Leakage Modeling: A Framework for Annotated Power Trace Acquisition on the Ibex RISC-V Core*, Rick Litjens, (April 2026)
   - *Assisted Dynamic Analysis of RISC-V Binaries*, Shravan Sukumar, (June 2025)
-  - *Can KEV and EPSS enhance vulnerability prioritization?*, Abhishek Bandivadekar (June 2025)
+  - *Can KEV and EPSS enhance vulnerability prioritization? Abhishek Bandivadekar (June 2025)
   - *ARMCHAIR A Cryptographic Simulation and Analysis Tool*, Paolo Scatolini (March 2025)
   - *Curiouser and ~~curiouser~~  Cortex-M4! Down the rabbit hole of microcontroller behavior to explore known and find new instruction-level optimization techniques for the Cortex-M4*, Senna van Hoek (September 2024)
   - *RE-ARMament Reverse engineering Cortex-m4 behavior using side-channel analysis*, Bart Hoffman (September 2024)
   - *The more, the merrier? A step-by-step inter-device analysis for transfer learning side-channel attacks*, Lizzy Groetjes (June 2024)
-  -  *A walk down memory lane: Exploring timing behavior of Loads and Stores on ARM Cortex-M3 microcontrollers*, Bas van der Zandt (April 2024)
-  - *Supervised Contrastive Learning Based Side-channel attack on AES*, Huijing Fan @Brighsight (February 2024)
+  -  *A walk down memory lane: Exploring timing behavior of Loads and Stores on ARM Cortex-M3 microcontrollers*, Bas van der Zandt (April 2024), 
+  - *Supervised Contrastive Learning-Based Side-channel Attack on AES*, Huijing Fan @Brighsight (February 2024)
   - *Effectiveness of micro-benchmarks in identifying exploitable leakage of a cryptographic primitive*, Ischa Stork @Riscure (December 2022) 
   - *Power-based Side-Channel Instruction-level Disassembler*, Jurian van Geest, (July 2022); 
   - *Examining a Leakage Identification Proposal for a Hardened Microprocessor*,  Niels van Drueten ( February 2022).
   - *Calculating the vulnerability remediation order based on open source intelligence* @Northwave, Richard van Ginkel (October 2021), [Link to thesis](https://www.ru.nl/publish/pages/769526/richard_van_ginkel.pdf).
   - *Data Augmentation Techniques using Generative Adversarial Neural Networks on Side Channel Analysis* @Riscure, Achilleas Vlogiaris (co-supervisor with Stjepan Picek), (April 2021), [Link to thesis](https://repository.tudelft.nl/islandora/object/uuid%3Ad2d00b11-cea1-466e-9b17-2b244e33be25).
-  - *Side-channel leaks from target devices, @Riscure (co-supervisor with Stjepan Picek),fense, Vipul Arora (de December 2020).  [Link to thesis](https://repository.tudelft.nl/islandora/object/uuid:5566f6d5-2cee-4f5c-b047-7c8e36e8306f?collection=education). [Link to paper](https://eprint.iacr.org/2021/905)
+  - *Side-channel leaks from target devices, @Riscure (co-supervisor with Stjepan Picek),fense, Vipul Arora (December 2020).  [Link to thesis](https://repository.tudelft.nl/islandora/object/uuid:5566f6d5-2cee-4f5c-b047-7c8e36e8306f?collection=education). [Link to paper](https://eprint.iacr.org/2021/905)
   
 - **Research Internship**: 
 
+  * *Investigating Android Auto*, George-Nicolas Nadejde, NFI, (February 2026)
+  * *The Erase That Didn’t Happen: EMFI Effects on STM32 RDP Downgrade*, Chris Musteata, NFI, (February 2026) 
   * *Design and Implementation of a Reliable and Energy-Efficient IoT Gateway for Soil Monitoring*, Rick Litjens (June 2025)
-* *Getting real with our imaginary friends*, Dimitrios Grafanakis, (December 2024)
+  * *Getting real with our imaginary friends*, Dimitrios Grafanakis, (December 2024)
   * *Evaluation presentation of a workshop in side-channel analysis with AI tools*, Lizzy Grootjen, (November 2024)
-* *N-days vulnerabilities*,Bart Hoffman, (April 2024)
+  * *N-days vulnerabilities*,Bart Hoffman, (April 2024)
   * *Visualizing the memory instruction patterns in ARMv7-M firmware using ACID*, Senna van Hoek, (July 2023)
-* *Extending FiSim, a Fault Attack Simulator*, Mashal Zainab ([Cyberus](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/org-details/999999999/project/101049712/program/43353764/details)), (June 2023)
+  * *Extending FiSim, a Fault Attack Simulator*, Mashal Zainab ([Cyberus](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/org-details/999999999/project/101049712/program/43353764/details)), (June 2023)
   * *Guidelines and takeaways for setting up an Ibex Core on the Arty A7 FPGA board*, Stefan Popa (March 2023)
-* *Side-Channel Attack on DES and AES Algorithms* @Brighsight,  Huijing Fan (March 2023)
+  * *Side-Channel Attack on DES and AES Algorithms* @Brighsight,  Huijing Fan (March 2023)
   * *Threat analysis of an industrial system*  @ GAIN, Abdulkarim Abdulkadir ( June 2022). 
-* *SCA Leakage Detection Framework*,  Tamas Razman, (June 2021),  [LeakageDetectionFramework](https://github.com/RazePerson/sca-leakage-detection-framework).
+  * *SCA Leakage Detection Framework*,  Tamas Razman, (June 2021),  [LeakageDetectionFramework](https://github.com/RazePerson/sca-leakage-detection-framework).
   * *MagiCkafka* @COMPUMATICA, Giels Besouw, (February 2021)
-* *Modeling the pipeline effect on the power signature of individual instructions*,  Jurian van Geest, (May 2021).
+  * *Modeling the pipeline effect on the power signature of individual instructions*,  Jurian van Geest, (May 2021).
   * *On the influence of density estimators on Mutual Information calculation*,  Eduardo Piloneto Lima Hoefel, (May 2021), [DEAR tool](https://github.com/eduardoHoefel/dear-tool).
-
 - **Bachelor's thesis**: 
 
-  -  *Fine Grained LeakageModels in a Simulated Pipeline Component for an arbitrary*
-  
-     *RISC-VMicrocontroller*, Ioana Dunare, (August 2025)
+  -  *Generic instrumentation of cryptographic implementations*, Yuliia Denysiuk, (March 2026)
+  -  *Fine-Grained Leakage Models in a Simulated Pipeline Component for an arbitrary RISC-V Microcontroller*, Ioana Dunare, (August 2025)
   -  *Side-channel resistant implementation of ASCON for RISC-V architectures*,  Daan Weessies, (June 2025)
   - *ARMageddon: A Microarchitectural Duel Between the Cortex-M4 and M33*, Alexandru Aioanei, (June 2025)
   - *Firmware Extraction and Analysis of the TP-Link TL-MR3020 Router*, Beau Maas, (June 2025)

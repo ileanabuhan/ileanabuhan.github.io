@@ -6,7 +6,7 @@ permalink: /about/
 
 ![short cv]({{site.url}}/assets/img/Ileana.jpeg){:height="20%" width="20%"}
 
-I am an assistant professor at Radboud University Nijmegen in the Digital Security Group and part of the [CESCA Lab](https://cescalab.cs.ru.nl/). Between 2011 and 2020, I worked at Riscure, first as a security evaluation manager responsible for executing high-assurance security evaluation projects and later as the product manager for the training unit. Between 2008-2010 I was a senior scientist at Philips, Eindhoven, The Netherlands. I finished my Ph.D., entitled Cryptography with noisy data, in 2008 under the supervision of prof. dr. Pieter Hartel and dr. Jeroen Doumen.  For my Ph.D. work and contribution to the advance of biometric research, I was awarded the 2008 EBF European Biometrics Research Industry Award by European Biometric Forum.
+I am an assistant professor at Radboud University Nijmegen in the Digital Security Group and part of the [CESCA Lab](https://cescalab.cs.ru.nl/). Between 2011 and 2020, I worked at Riscure, first as a security evaluation manager responsible for executing high-assurance security evaluation projects and later as the product manager for the training unit. Between 2008 and 2010, I was a senior scientist at Philips, Eindhoven, The Netherlands. I finished my Ph.D., entitled Cryptography with noisy data, in 2008 under the supervision of Prof. Dr. Pieter Hartel and Dr. Jeroen Doumen.  For my Ph.D. work and contribution to the advancement of biometric research, I was awarded the 2008 EBF European Biometrics Research Industry Award by the European Biometric Forum.
 
 My main research interest is hardware security, and I focus on advancing tools to create secure hardware. Below is a short overview of my professional career. 
 
@@ -39,9 +39,11 @@ My main research interest is hardware security, and I focus on advancing tools t
 
 I am or was a member of the program committees of the following conferences, workshops, and schools:
 
+- **2026** [CiC](https://cic.iacr.org/), [CHES](https://ches.iacr.org) (artifact co-chair), ACTIVE (program co-chair)  
+
 - **2025** [CHES](https://ches.iacr.org/2025), [DATE](https://www.date-conference.com)
 
-- **2024** [CHES](https://ches.iacr.org/2024), [DATE](https://www.date-conference.com/), [NWO.ICTOPEN](https://www.ictopen.nl/) (program co-chair)
+- **2024** [CHES](https://ches.iacr.org/2024), [DATE](https://www.date-conference.com/), [NWO.ICTOPEN](https://www.ictopen.nl/) (program co-chair), CASCADE (steering committee)
 
 - **2023** [ASIACCS](https://asiaccs2023.org/); [ESORICS](https://esorics2023.org/); [FDTC](https://fdtc.deib.polimi.it/FDTC23/), [CARDIS](http://cardis.org/archive.html), [HASP](https://www.haspworkshop.org/2023/index.html), [AIHWS](https://aihws2023.aisylab.com), [ASHES](http://ashesworkshop.org)
 
