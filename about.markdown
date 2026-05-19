@@ -39,7 +39,7 @@ My main research interest is hardware security, and I focus on advancing tools t
 
 I am or was a member of the program committees of the following conferences, workshops, and schools:
 
-- **2026** [CiC](https://cic.iacr.org/), [CHES](https://ches.iacr.org) (artifact co-chair), ACTIVE (program co-chair)  
+- **2026** [CiC](https://cic.iacr.org/), [CHES](https://ches.iacr.org) (artifact co-chair), [ACTIVE](https://active.cs.ru.nl/2026) (program co-chair)  
 
 - **2025** [CHES](https://ches.iacr.org/2025), [DATE](https://www.date-conference.com)
 
