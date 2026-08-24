@@ -31,6 +31,8 @@ If you enjoy embedded systems and are seeking a project that combines hands-on w
 
 - **Master thesis**: 
 
+  - *Integrating taint analysis into firmware simulation using the  Qiling Framework*, Majda Bakmaz (July 2026)
+  - *Kassandra  NTT-taylored chosen ciphertexts*, Dimitris Grafanakis (June 2026)
   - *Towards Instruction-Level Leakage Modeling: A Framework for Annotated Power Trace Acquisition on the Ibex RISC-V Core*, Rick Litjens, (April 2026)
   - *Assisted Dynamic Analysis of RISC-V Binaries*, Shravan Sukumar, (June 2025)
   - *Can KEV and EPSS enhance vulnerability prioritization? Abhishek Bandivadekar (June 2025)
@@ -64,8 +66,12 @@ If you enjoy embedded systems and are seeking a project that combines hands-on w
   * *MagiCkafka* @COMPUMATICA, Giels Besouw, (February 2021)
   * *Modeling the pipeline effect on the power signature of individual instructions*,  Jurian van Geest, (May 2021).
   * *On the influence of density estimators on Mutual Information calculation*,  Eduardo Piloneto Lima Hoefel, (May 2021), [DEAR tool](https://github.com/eduardoHoefel/dear-tool).
+  
 - **Bachelor's thesis**: 
 
+  -  *One Ciphertext Too Many: Side-Channel Leakage in FrodoKEM Decapsulation*, Vicentia Stroe (June 2026)
+  -  *Disassembling power signatures of multi-cycle instructions on ARM  Cortex-M4*, Diun Tang (June 2026)
+  -  *Lessons learned when porting FrodoKEM640 to RISC-V*, Silviu Lazar (June 2026)
   -  *Generic instrumentation of cryptographic implementations*, Yuliia Denysiuk, (March 2026)
   -  *Fine-Grained Leakage Models in a Simulated Pipeline Component for an arbitrary RISC-V Microcontroller*, Ioana Dunare, (August 2025)
   -  *Side-channel resistant implementation of ASCON for RISC-V architectures*,  Daan Weessies, (June 2025)

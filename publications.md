@@ -8,8 +8,9 @@ permalink: /Publications/
 
 **New work**
 
-**Root-Cause Analysis of Power Side-Channel Leaks in RISC-V Cryptographic Implementations**,  Asmita Adhikary, Abraham Basurto-Becera, Lejla Batina, Ileana Buhan, and Durba Chatterjee, [Link to eprint version]( https://eprint.iacr.org/2026/131)
+**Vogls: a Fast Interactive Full-timing Simulator for Pre-silicon Power Side-Channel Analysis**, Gijs Burghoorn, Ileana Buhan and Lejla Batina,  DTFS 2026 (short paper), [Link arXiv](https://arxiv.org/abs/2607.15782)
 
+**Root-Cause Analysis of Power Side-Channel Leaks in RISC-V Cryptographic Implementations**,  Asmita Adhikary, Abraham Basurto-Becera, Lejla Batina, Ileana Buhan, and Durba Chatterjee, [Link to eprint version]( https://eprint.iacr.org/2026/131)
 
 **Published**
 
